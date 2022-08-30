@@ -137,12 +137,14 @@
 3667,1954-06-16,France,Yugoslavia,0,1,FIFA World Cup,Lausanne,Switzerland,True,Yugoslavia,1,1954
 3668,1954-06-17,Belgium,England,4,4,FIFA World Cup,Basel,Switzerland,True,draw,0,1954
 3669,1954-06-17,Germany,Turkey,4,1,FIFA World Cup,Berne,Switzerland,True,Germany,3,1954
+3670,1954-06-17,Hungary,South Korea,9,0,FIFA World Cup,Zürich,Switzerland,True,Hungary,9,1954
 3671,1954-06-17,Switzerland,Italy,2,1,FIFA World Cup,Lausanne,Switzerland,False,Switzerland,1,1954
 3673,1954-06-19,Brazil,Yugoslavia,1,1,FIFA World Cup,Lausanne,Switzerland,True,draw,0,1954
 3674,1954-06-19,France,Mexico,3,2,FIFA World Cup,Geneva,Switzerland,True,France,1,1954
 3675,1954-06-19,Scotland,Uruguay,0,7,FIFA World Cup,Basel,Switzerland,True,Uruguay,7,1954
 3676,1954-06-20,Belgium,Italy,1,4,FIFA World Cup,Lugano,Switzerland,True,Italy,3,1954
 3677,1954-06-20,Germany,Hungary,3,8,FIFA World Cup,Basel,Switzerland,True,Hungary,5,1954
+3678,1954-06-20,South Korea,Turkey,0,7,FIFA World Cup,Geneva,Switzerland,True,Turkey,7,1954
 3679,1954-06-20,Switzerland,England,0,2,FIFA World Cup,Berne,Switzerland,False,England,2,1954
 3680,1954-06-23,Germany,Turkey,7,2,FIFA World Cup,Zürich,Switzerland,True,Germany,5,1954
 3681,1954-06-23,Switzerland,Italy,4,1,FIFA World Cup,Basel,Switzerland,False,Switzerland,3,1954
@@ -288,6 +290,7 @@
 5000,1961-09-28,France,Finland,5,1,FIFA World Cup qualification,Paris,France,False,France,4,1961
 5004,1961-10-04,Belgium,Sweden,0,2,FIFA World Cup qualification,Brussels,Belgium,False,Sweden,2,1961
 5011,1961-10-08,Luxembourg,Portugal,4,2,FIFA World Cup qualification,Luxembourg,Luxembourg,False,Luxembourg,2,1961
+5014,1961-10-08,Yugoslavia,South Korea,5,1,FIFA World Cup qualification,Belgrade,Yugoslavia,False,Yugoslavia,4,1961
 5024,1961-10-22,Germany,Greece,2,1,FIFA World Cup qualification,Augsburg,Germany,False,Germany,1,1961
 5025,1961-10-22,Hungary,Netherlands,3,3,FIFA World Cup qualification,Budapest,Hungary,False,draw,0,1961
 5030,1961-10-25,England,Portugal,2,0,FIFA World Cup qualification,London,England,False,England,2,1961
@@ -298,6 +301,7 @@
 5045,1961-11-12,Morocco,Spain,0,1,FIFA World Cup qualification,Casablanca,Morocco,False,Spain,1,1961
 5047,1961-11-12,Switzerland,Sweden,2,1,FIFA World Cup qualification,Berlin,Germany,True,Switzerland,1,1961
 5053,1961-11-23,Spain,Morocco,3,2,FIFA World Cup qualification,Madrid,Spain,False,Spain,1,1961
+5055,1961-11-26,South Korea,Yugoslavia,1,3,FIFA World Cup qualification,Seoul,South Korea,False,Yugoslavia,2,1961
 5073,1961-12-16,Bulgaria,France,1,0,FIFA World Cup qualification,Milan,Italy,True,Bulgaria,1,1961
 5137,1962-05-30,Argentina,Bulgaria,1,0,FIFA World Cup,Rancagua,Chile,True,Argentina,1,1962
 5138,1962-05-30,Brazil,Mexico,2,0,FIFA World Cup,Viña del Mar,Chile,True,Brazil,2,1962
@@ -608,11 +612,16 @@
 8696,1973-05-15,Iran,Syria,0,1,FIFA World Cup qualification,Tehran,Iran,False,Syria,1,1973
 8699,1973-05-16,Israel,Japan,2,1,FIFA World Cup qualification,Seoul,South Korea,True,Israel,1,1973
 8706,1973-05-19,France,Republic of Ireland,1,1,FIFA World Cup qualification,Paris,France,False,draw,0,1973
+8708,1973-05-19,South Korea,Thailand,4,0,FIFA World Cup qualification,Seoul,South Korea,False,South Korea,4,1973
 8710,1973-05-20,Ivory Coast,Morocco,1,1,FIFA World Cup qualification,Abidjan,Ivory Coast,False,draw,0,1973
 8711,1973-05-20,Vietnam Republic,Japan,0,4,FIFA World Cup qualification,Seoul,South Korea,True,Japan,4,1973
+8713,1973-05-21,South Korea,Malaysia,0,0,FIFA World Cup qualification,Seoul,South Korea,False,draw,0,1973
 8714,1973-05-22,Japan,Hong Kong,0,1,FIFA World Cup qualification,Seoul,South Korea,True,Hong Kong,1,1973
+8715,1973-05-23,South Korea,Israel,0,0,FIFA World Cup qualification,Seoul,South Korea,False,draw,0,1973
 8720,1973-05-26,Israel,Japan,1,0,FIFA World Cup qualification,Seoul,South Korea,True,Israel,1,1973
+8721,1973-05-26,South Korea,Hong Kong,3,1,FIFA World Cup qualification,Seoul,South Korea,False,South Korea,2,1973
 8722,1973-05-26,Russia,France,2,0,FIFA World Cup qualification,Moscow,Soviet Union,True,Russia,2,1973
+8728,1973-05-28,South Korea,Israel,1,0,FIFA World Cup qualification,Seoul,South Korea,False,South Korea,1,1973
 8731,1973-06-03,Morocco,Ivory Coast,4,1,FIFA World Cup qualification,Tétouan,Morocco,False,Morocco,3,1973
 8733,1973-06-06,Czechoslovakia,Denmark,6,0,FIFA World Cup qualification,Prague,Czechoslovakia,False,Czechoslovakia,6,1973
 8737,1973-06-06,Poland,England,2,0,FIFA World Cup qualification,Chorzów,Poland,False,Poland,2,1973
@@ -718,6 +727,7 @@
 10166,1977-02-20,Ecuador,Peru,1,1,FIFA World Cup qualification,Quito,Ecuador,False,draw,0,1977
 10172,1977-02-27,Bolivia,Uruguay,1,0,FIFA World Cup qualification,La Paz,Bolivia,False,Bolivia,1,1977
 10175,1977-02-27,Ecuador,Chile,0,1,FIFA World Cup qualification,Guayaquil,Ecuador,False,Chile,1,1977
+10178,1977-02-27,Israel,South Korea,0,0,FIFA World Cup qualification,Ramat-Gan,Israel,False,draw,0,1977
 10181,1977-02-28,Algeria,Tunisia,1,1,FIFA World Cup qualification,Algiers,Algeria,False,draw,0,1977
 10191,1977-03-06,Israel,Japan,2,0,FIFA World Cup qualification,Ramat-Gan,Israel,False,Israel,2,1977
 10201,1977-03-09,Brazil,Colombia,6,0,FIFA World Cup qualification,Rio de Janeiro,Brazil,False,Brazil,6,1977
@@ -731,6 +741,7 @@
 10216,1977-03-19,Qatar,Bahrain,0,3,FIFA World Cup qualification,Doha,Qatar,False,Bahrain,3,1977
 10217,1977-03-20,Brazil,Paraguay,1,1,FIFA World Cup qualification,Rio de Janeiro,Brazil,False,draw,0,1977
 10219,1977-03-20,Chile,Ecuador,3,0,FIFA World Cup qualification,Santiago,Chile,False,Chile,3,1977
+10220,1977-03-20,South Korea,Israel,3,1,FIFA World Cup qualification,Seoul,South Korea,False,South Korea,2,1977
 10223,1977-03-21,Qatar,Kuwait,1,4,FIFA World Cup qualification,Doha,Qatar,False,Kuwait,3,1977
 10229,1977-03-26,Belgium,Netherlands,0,2,FIFA World Cup qualification,Antwerp,Belgium,False,Netherlands,2,1977
 10230,1977-03-26,Japan,South Korea,0,0,FIFA World Cup qualification,Tokyo,Japan,False,draw,0,1977
@@ -749,6 +760,7 @@
 10299,1977-06-08,Sweden,Switzerland,2,1,FIFA World Cup qualification,Solna,Sweden,False,Sweden,1,1977
 10317,1977-06-19,Hong Kong,Iran,0,2,FIFA World Cup qualification,So Kon Po,Hong Kong,False,Iran,2,1977
 10319,1977-06-19,Tunisia,Guinea,3,1,FIFA World Cup qualification,Tunis,Tunisia,False,Tunisia,2,1977
+10324,1977-06-26,Hong Kong,South Korea,0,2,FIFA World Cup qualification,So Kon Po,Hong Kong,False,South Korea,2,1977
 10328,1977-07-03,South Korea,Iran,0,0,FIFA World Cup qualification,Busan,South Korea,False,draw,0,1977
 10332,1977-07-10,Australia,Hong Kong,3,0,FIFA World Cup qualification,Adelaide,Australia,False,Australia,3,1977
 10334,1977-07-10,Peru,Brazil,0,1,FIFA World Cup qualification,Cali,Colombia,True,Brazil,1,1977
@@ -760,6 +772,7 @@
 10404,1977-09-21,Poland,Denmark,4,1,FIFA World Cup qualification,Chorzów,Poland,False,Poland,3,1977
 10414,1977-09-25,Tunisia,Nigeria,0,0,FIFA World Cup qualification,Tunis,Tunisia,False,draw,0,1977
 10433,1977-10-09,Denmark,Portugal,2,4,FIFA World Cup qualification,Copenhagen,Denmark,False,Portugal,2,1977
+10434,1977-10-09,South Korea,Kuwait,1,0,FIFA World Cup qualification,Seoul,South Korea,False,South Korea,1,1977
 10443,1977-10-12,Luxembourg,England,0,2,FIFA World Cup qualification,Luxembourg,Luxembourg,False,England,2,1977
 10445,1977-10-12,Northern Ireland,Netherlands,0,1,FIFA World Cup qualification,Belfast,Northern Ireland,False,Netherlands,1,1977
 10446,1977-10-12,Wales,Scotland,0,2,FIFA World Cup qualification,Liverpool,England,True,Scotland,2,1977
@@ -771,6 +784,7 @@
 10472,1977-10-29,Poland,Portugal,1,1,FIFA World Cup qualification,Chorzów,Poland,False,draw,0,1977
 10473,1977-10-30,Hong Kong,Australia,2,5,FIFA World Cup qualification,So Kon Po,Hong Kong,False,Australia,3,1977
 10474,1977-10-30,Switzerland,Norway,1,0,FIFA World Cup qualification,Berne,Switzerland,False,Switzerland,1,1977
+10480,1977-11-05,Kuwait,South Korea,2,2,FIFA World Cup qualification,Kuwait City,Kuwait,False,draw,0,1977
 10484,1977-11-11,Iran,South Korea,2,2,FIFA World Cup qualification,Tehran,Iran,False,draw,0,1977
 10487,1977-11-12,Nigeria,Tunisia,0,1,FIFA World Cup qualification,Lagos,Nigeria,False,Tunisia,1,1977
 10492,1977-11-16,Czechoslovakia,Wales,1,0,FIFA World Cup qualification,Prague,Czechoslovakia,False,Czechoslovakia,1,1977
@@ -784,6 +798,7 @@
 10503,1977-11-25,Iran,Australia,1,0,FIFA World Cup qualification,Tehran,Iran,False,Iran,1,1977
 10512,1977-11-30,Yugoslavia,Spain,0,1,FIFA World Cup qualification,Belgrade,Yugoslavia,False,Spain,1,1977
 10516,1977-12-03,Kuwait,Iran,1,2,FIFA World Cup qualification,Kuwait City,Kuwait,False,Iran,1,1977
+10518,1977-12-04,South Korea,Hong Kong,5,2,FIFA World Cup qualification,Busan,South Korea,False,South Korea,3,1977
 10523,1977-12-11,Tunisia,Egypt,4,1,FIFA World Cup qualification,Tunis,Tunisia,False,Tunisia,3,1977
 10651,1978-06-01,Germany,Poland,0,0,FIFA World Cup,Buenos Aires,Argentina,True,draw,0,1978
 10652,1978-06-02,Argentina,Hungary,2,1,FIFA World Cup,Buenos Aires,Argentina,False,Argentina,1,1978
@@ -873,6 +888,8 @@
 11870,1981-03-31,Saudi Arabia,Qatar,1,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,False,Saudi Arabia,1,1981
 11871,1981-04-01,Albania,Germany,0,2,FIFA World Cup qualification,Tirana,Albania,False,Germany,2,1981
 11886,1981-04-12,DR Congo,Cameroon,1,0,FIFA World Cup qualification,Kinshasa,Zaïre,False,DR Congo,1,1981
+11910,1981-04-21,South Korea,Malaysia,2,1,FIFA World Cup qualification,Kuwait City,Kuwait,True,South Korea,1,1981
+11912,1981-04-24,South Korea,Thailand,5,1,FIFA World Cup qualification,Kuwait City,Kuwait,True,South Korea,4,1981
 11914,1981-04-25,New Zealand,Australia,3,3,FIFA World Cup qualification,Auckland,New Zealand,False,draw,0,1981
 11917,1981-04-26,Cameroon,DR Congo,6,1,FIFA World Cup qualification,Douala,Cameroon,False,Cameroon,5,1981
 11920,1981-04-26,Morocco,Egypt,1,0,FIFA World Cup qualification,Casablanca,Morocco,False,Morocco,1,1981
@@ -881,6 +898,7 @@
 11928,1981-04-29,England,Romania,0,0,FIFA World Cup qualification,London,England,False,draw,0,1981
 11929,1981-04-29,France,Belgium,3,2,FIFA World Cup qualification,Paris,France,False,France,1,1981
 11930,1981-04-29,Germany,Austria,2,0,FIFA World Cup qualification,Hamburg,Germany,False,Germany,2,1981
+11932,1981-04-29,Kuwait,South Korea,2,0,FIFA World Cup qualification,Kuwait City,Kuwait,False,Kuwait,2,1981
 11933,1981-04-29,Northern Ireland,Portugal,1,0,FIFA World Cup qualification,Belfast,Northern Ireland,False,Northern Ireland,1,1981
 11936,1981-05-01,Luxembourg,Denmark,1,2,FIFA World Cup qualification,Luxembourg,Luxembourg,False,Denmark,1,1981
 11937,1981-05-02,Poland,German DR,1,0,FIFA World Cup qualification,Chorzów,Poland,False,Poland,1,1981
@@ -1018,7 +1036,9 @@
 13695,1985-02-27,Netherlands,Cyprus,7,1,FIFA World Cup qualification,Amsterdam,Netherlands,False,Netherlands,6,1985
 13696,1985-02-27,Northern Ireland,England,0,1,FIFA World Cup qualification,Belfast,Northern Ireland,False,England,1,1985
 13697,1985-02-27,Spain,Scotland,1,0,FIFA World Cup qualification,Seville,Spain,False,Spain,1,1985
+13701,1985-03-02,Nepal,South Korea,0,2,FIFA World Cup qualification,Kathmandu,Nepal,False,South Korea,2,1985
 13704,1985-03-03,Ecuador,Chile,1,1,FIFA World Cup qualification,Quito,Ecuador,False,draw,0,1985
+13717,1985-03-10,Malaysia,South Korea,1,0,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False,Malaysia,1,1985
 13719,1985-03-10,Uruguay,Ecuador,2,1,FIFA World Cup qualification,Montevideo,Uruguay,False,Uruguay,1,1985
 13726,1985-03-15,Jordan,Qatar,1,0,FIFA World Cup qualification,Amman,Jordan,False,Jordan,1,1985
 13728,1985-03-17,Chile,Ecuador,6,2,FIFA World Cup qualification,Santiago,Chile,False,Chile,4,1985
@@ -1032,6 +1052,7 @@
 13770,1985-03-31,Ecuador,Uruguay,0,2,FIFA World Cup qualification,Quito,Ecuador,False,Uruguay,2,1985
 13785,1985-04-03,Yugoslavia,France,0,0,FIFA World Cup qualification,Sarajevo,Yugoslavia,False,draw,0,1985
 13791,1985-04-05,Qatar,Iraq,3,0,FIFA World Cup qualification,Doha,Qatar,False,Qatar,3,1985
+13796,1985-04-06,South Korea,Nepal,4,0,FIFA World Cup qualification,Seoul,South Korea,False,South Korea,4,1985
 13797,1985-04-07,Ivory Coast,Ghana,0,0,FIFA World Cup qualification,Abidjan,Ivory Coast,False,draw,0,1985
 13799,1985-04-07,Morocco,Malawi,2,0,FIFA World Cup qualification,Rabat,Morocco,False,Morocco,2,1985
 13801,1985-04-07,Uruguay,Chile,2,1,FIFA World Cup qualification,Montevideo,Uruguay,False,Uruguay,1,1985
@@ -1055,6 +1076,7 @@
 13888,1985-05-14,Hungary,Netherlands,0,1,FIFA World Cup qualification,Budapest,Hungary,False,Netherlands,1,1985
 13893,1985-05-18,Japan,Singapore,5,0,FIFA World Cup qualification,Tokyo,Japan,False,Japan,5,1985
 13895,1985-05-19,Greece,Poland,1,4,FIFA World Cup qualification,Athens,Greece,False,Poland,3,1985
+13896,1985-05-19,South Korea,Malaysia,2,0,FIFA World Cup qualification,Seoul,South Korea,False,South Korea,2,1985
 13899,1985-05-22,Finland,England,1,1,FIFA World Cup qualification,Helsinki,Finland,False,draw,0,1985
 13908,1985-05-26,Venezuela,Argentina,2,3,FIFA World Cup qualification,San Cristóbal,Venezuela,False,Argentina,1,1985
 13910,1985-05-30,Albania,Poland,0,1,FIFA World Cup qualification,Tirana,Albania,False,Poland,1,1985
@@ -1074,8 +1096,10 @@
 13985,1985-07-12,Egypt,Morocco,0,0,FIFA World Cup qualification,Cairo,Egypt,False,draw,0,1985
 13990,1985-07-14,Ghana,Libya,0,0,FIFA World Cup qualification,Accra,Ghana,False,draw,0,1985
 13992,1985-07-20,Tunisia,Nigeria,2,0,FIFA World Cup qualification,Tunis,Tunisia,False,Tunisia,2,1985
+13993,1985-07-21,South Korea,Indonesia,2,0,FIFA World Cup qualification,Seoul,South Korea,False,South Korea,2,1985
 13994,1985-07-26,Libya,Ghana,2,0,FIFA World Cup qualification,Bin Ghashir,Libya,False,Libya,2,1985
 13996,1985-07-28,Morocco,Egypt,2,0,FIFA World Cup qualification,Casablanca,Morocco,False,Morocco,2,1985
+13999,1985-07-30,Indonesia,South Korea,1,4,FIFA World Cup qualification,Jakarta,Indonesia,False,South Korea,3,1985
 14006,1985-08-11,Japan,Hong Kong,3,0,FIFA World Cup qualification,Kobe,Japan,False,Japan,3,1985
 14033,1985-09-10,Wales,Scotland,1,1,FIFA World Cup qualification,Cardiff,Wales,False,draw,0,1985
 14035,1985-09-11,England,Romania,1,1,FIFA World Cup qualification,London,England,False,draw,0,1985
@@ -1123,6 +1147,7 @@
 14380,1986-06-04,Uruguay,Germany,1,1,FIFA World Cup,Querétaro,Mexico,True,draw,0,1986
 14381,1986-06-05,France,Russia,1,1,FIFA World Cup,León,Mexico,True,draw,0,1986
 14382,1986-06-05,Italy,Argentina,1,1,FIFA World Cup,Puebla,Mexico,True,draw,0,1986
+14383,1986-06-05,South Korea,Bulgaria,1,1,FIFA World Cup,Mexico City,Mexico,True,draw,0,1986
 14384,1986-06-06,Brazil,Algeria,1,0,FIFA World Cup,Guadalajara,Mexico,True,Brazil,1,1986
 14385,1986-06-06,England,Morocco,0,0,FIFA World Cup,Monterrey,Mexico,True,draw,0,1986
 14386,1986-06-06,Hungary,Canada,2,0,FIFA World Cup,Irapuato,Mexico,True,Hungary,2,1986
@@ -1135,6 +1160,7 @@
 14395,1986-06-09,Hungary,France,0,3,FIFA World Cup,León,Mexico,True,France,3,1986
 14396,1986-06-09,Russia,Canada,2,0,FIFA World Cup,Irapuato,Mexico,True,Russia,2,1986
 14397,1986-06-10,Argentina,Bulgaria,2,0,FIFA World Cup,Mexico City,Mexico,True,Argentina,2,1986
+14398,1986-06-10,South Korea,Italy,2,3,FIFA World Cup,Puebla,Mexico,True,Italy,1,1986
 14399,1986-06-11,England,Poland,3,0,FIFA World Cup,Monterrey,Mexico,True,England,3,1986
 14401,1986-06-11,Mexico,Iraq,1,0,FIFA World Cup,Mexico City,Mexico,False,Mexico,1,1986
 14402,1986-06-11,Paraguay,Belgium,2,2,FIFA World Cup,Toluca,Mexico,True,draw,0,1986
@@ -1220,13 +1246,19 @@
 15655,1989-05-07,Sweden,Poland,2,1,FIFA World Cup qualification,Solna,Sweden,False,Sweden,1,1989
 15668,1989-05-17,Denmark,Greece,7,1,FIFA World Cup qualification,Copenhagen,Denmark,False,Denmark,6,1989
 15679,1989-05-22,Hong Kong,Japan,0,0,FIFA World Cup qualification,Victoria,Hong Kong,False,draw,0,1989
+15682,1989-05-23,South Korea,Singapore,3,0,FIFA World Cup qualification,Seoul,South Korea,False,South Korea,3,1989
+15688,1989-05-25,South Korea,Nepal,9,0,FIFA World Cup qualification,Seoul,South Korea,False,South Korea,9,1989
+15696,1989-05-27,South Korea,Malaysia,3,0,FIFA World Cup qualification,Seoul,South Korea,False,South Korea,3,1989
 15700,1989-05-28,Indonesia,Japan,0,0,FIFA World Cup qualification,Jakarta,Indonesia,False,draw,0,1989
 15705,1989-05-30,Iran,Thailand,3,0,FIFA World Cup qualification,Tehran,Iran,False,Iran,3,1989
 15708,1989-05-31,Finland,Netherlands,0,1,FIFA World Cup qualification,Helsinki,Finland,False,Netherlands,1,1989
 15712,1989-05-31,Wales,Germany,0,0,FIFA World Cup qualification,Cardiff,Wales,False,draw,0,1989
 15714,1989-06-01,Luxembourg,Belgium,0,5,FIFA World Cup qualification,Lille,France,True,Belgium,5,1989
 15721,1989-06-03,England,Poland,3,0,FIFA World Cup qualification,London,England,False,England,3,1989
+15723,1989-06-03,Nepal,South Korea,0,4,FIFA World Cup qualification,Singapore,Singapore,True,South Korea,4,1989
 15729,1989-06-04,Japan,North Korea,2,1,FIFA World Cup qualification,Tokyo,Japan,False,Japan,1,1989
+15732,1989-06-05,Malaysia,South Korea,0,3,FIFA World Cup qualification,Singapore,Singapore,True,South Korea,3,1989
+15738,1989-06-07,Singapore,South Korea,0,3,FIFA World Cup qualification,Singapore,Singapore,False,South Korea,3,1989
 15739,1989-06-07,Switzerland,Czechoslovakia,0,1,FIFA World Cup qualification,Berne,Switzerland,False,Czechoslovakia,1,1989
 15745,1989-06-10,Nigeria,Cameroon,2,0,FIFA World Cup qualification,Ibadan,Nigeria,False,Nigeria,2,1989
 15747,1989-06-11,DR Congo,Morocco,0,0,FIFA World Cup qualification,Kinshasa,Zaïre,False,draw,0,1989
@@ -1273,7 +1305,9 @@
 15939,1989-10-11,Wales,Netherlands,1,2,FIFA World Cup qualification,Wrexham,Wales,False,Netherlands,1,1989
 15941,1989-10-12,China PR,Saudi Arabia,2,1,FIFA World Cup qualification,Singapore,Singapore,True,China PR,1,1989
 15943,1989-10-13,South Korea,Qatar,0,0,FIFA World Cup qualification,Singapore,Singapore,True,draw,0,1989
+15947,1989-10-16,South Korea,North Korea,1,0,FIFA World Cup qualification,Singapore,Singapore,True,South Korea,1,1989
 15948,1989-10-16,Qatar,Saudi Arabia,1,1,FIFA World Cup qualification,Singapore,Singapore,True,draw,0,1989
+15950,1989-10-20,China PR,South Korea,0,1,FIFA World Cup qualification,Singapore,Singapore,True,South Korea,1,1989
 15951,1989-10-20,North Korea,Qatar,2,0,FIFA World Cup qualification,Singapore,Singapore,True,North Korea,2,1989
 15952,1989-10-21,Saudi Arabia,United Arab Emirates,0,0,FIFA World Cup qualification,Singapore,Singapore,True,draw,0,1989
 15956,1989-10-24,United Arab Emirates,Qatar,1,1,FIFA World Cup qualification,Singapore,Singapore,True,draw,0,1989
@@ -1283,6 +1317,7 @@
 15963,1989-10-25,Saudi Arabia,South Korea,0,2,FIFA World Cup qualification,Singapore,Singapore,True,South Korea,2,1989
 15968,1989-10-28,Qatar,China PR,2,1,FIFA World Cup qualification,Singapore,Singapore,True,Qatar,1,1989
 15969,1989-10-28,Saudi Arabia,North Korea,2,0,FIFA World Cup qualification,Guangzhou,China PR,True,Saudi Arabia,2,1989
+15971,1989-10-28,United Arab Emirates,South Korea,1,1,FIFA World Cup qualification,Kuala Lumpur,Malaysia,True,draw,0,1989
 16000,1989-11-15,Albania,Poland,1,2,FIFA World Cup qualification,Tirana,Albania,False,Poland,1,1989
 16003,1989-11-15,Germany,Wales,2,1,FIFA World Cup qualification,Cologne,Germany,False,Germany,1,1989
 16006,1989-11-15,Netherlands,Finland,3,0,FIFA World Cup qualification,Rotterdam,Netherlands,False,Netherlands,3,1989
@@ -1457,8 +1492,12 @@
 17834,1993-05-05,Kuwait,Saudi Arabia,0,0,FIFA World Cup qualification,Kuala Lumpur,Malaysia,True,draw,0,1993
 17836,1993-05-05,Sri Lanka,Japan,0,6,FIFA World Cup qualification,Dubai,United Arab Emirates,True,Japan,6,1993
 17840,1993-05-07,United Arab Emirates,Japan,1,1,FIFA World Cup qualification,Al Ain,United Arab Emirates,False,draw,0,1993
+17842,1993-05-09,Bahrain,South Korea,0,0,FIFA World Cup qualification,Beirut,Lebanon,True,draw,0,1993
 17843,1993-05-09,Canada,Mexico,1,2,FIFA World Cup qualification,Toronto,Canada,False,Mexico,1,1993
+17847,1993-05-11,Lebanon,South Korea,0,1,FIFA World Cup qualification,Beirut,Lebanon,False,South Korea,1,1993
+17851,1993-05-13,India,South Korea,0,3,FIFA World Cup qualification,Beirut,Lebanon,True,South Korea,3,1993
 17854,1993-05-14,Saudi Arabia,Macau,8,0,FIFA World Cup qualification,Taif,Saudi Arabia,False,Saudi Arabia,8,1993
+17856,1993-05-15,Hong Kong,South Korea,0,3,FIFA World Cup qualification,Beirut,Lebanon,True,South Korea,3,1993
 17859,1993-05-16,Saudi Arabia,Malaysia,3,0,FIFA World Cup qualification,Taif,Saudi Arabia,False,Saudi Arabia,3,1993
 17862,1993-05-18,Saudi Arabia,Kuwait,2,0,FIFA World Cup qualification,Taif,Saudi Arabia,False,Saudi Arabia,2,1993
 17864,1993-05-19,San Marino,Poland,0,3,FIFA World Cup qualification,Serravalle,San Marino,False,Poland,3,1993
@@ -1468,9 +1507,13 @@
 17914,1993-06-02,Denmark,Albania,4,0,FIFA World Cup qualification,Copenhagen,Denmark,False,Denmark,4,1993
 17917,1993-06-02,Lithuania,Spain,0,2,FIFA World Cup qualification,Vilnius,Lithuania,False,Spain,2,1993
 17918,1993-06-02,Norway,England,2,0,FIFA World Cup qualification,Oslo,Norway,False,Norway,2,1993
+17923,1993-06-05,South Korea,Hong Kong,4,1,FIFA World Cup qualification,Seoul,South Korea,False,South Korea,3,1993
 17924,1993-06-06,Australia,New Zealand,3,0,FIFA World Cup qualification,Melbourne,Australia,False,Australia,3,1993
 17927,1993-06-06,Faroe Islands,Wales,0,3,FIFA World Cup qualification,Toftir,Faroe Islands,False,Wales,3,1993
+17933,1993-06-07,South Korea,Lebanon,2,0,FIFA World Cup qualification,Seoul,South Korea,False,South Korea,2,1993
+17939,1993-06-09,South Korea,India,7,0,FIFA World Cup qualification,Seoul,South Korea,False,South Korea,7,1993
 17941,1993-06-09,Netherlands,Norway,0,0,FIFA World Cup qualification,Rotterdam,Netherlands,False,draw,0,1993
+17956,1993-06-13,South Korea,Bahrain,3,0,FIFA World Cup qualification,Seoul,South Korea,False,South Korea,3,1993
 17979,1993-06-19,Portugal,Malta,4,0,FIFA World Cup qualification,Porto,Portugal,False,Portugal,4,1993
 17992,1993-06-23,Iran,Oman,0,0,FIFA World Cup qualification,Tehran,Iran,False,draw,0,1993
 17997,1993-06-25,Iran,Taiwan,6,0,FIFA World Cup qualification,Tehran,Iran,False,Iran,6,1993
@@ -1534,6 +1577,7 @@
 18197,1993-10-16,Iran,South Korea,0,3,FIFA World Cup qualification,Doha,Qatar,True,South Korea,3,1993
 18200,1993-10-18,Japan,Iran,1,2,FIFA World Cup qualification,Doha,Qatar,True,Iran,1,1993
 18201,1993-10-18,North Korea,Saudi Arabia,1,2,FIFA World Cup qualification,Doha,Qatar,True,Saudi Arabia,1,1993
+18202,1993-10-19,Iraq,South Korea,2,2,FIFA World Cup qualification,Doha,Qatar,True,draw,0,1993
 18204,1993-10-21,North Korea,Japan,0,3,FIFA World Cup qualification,Doha,Qatar,True,Japan,3,1993
 18205,1993-10-22,Iran,Iraq,1,2,FIFA World Cup qualification,Doha,Qatar,True,Iraq,1,1993
 18206,1993-10-22,South Korea,Saudi Arabia,1,1,FIFA World Cup qualification,Doha,Qatar,True,draw,0,1993
@@ -1542,6 +1586,7 @@
 18211,1993-10-25,Japan,South Korea,1,0,FIFA World Cup qualification,Doha,Qatar,True,Japan,1,1993
 18217,1993-10-27,Turkey,Poland,2,1,FIFA World Cup qualification,Istanbul,Turkey,False,Turkey,1,1993
 18218,1993-10-28,Iraq,Japan,2,2,FIFA World Cup qualification,Doha,Qatar,True,draw,0,1993
+18219,1993-10-28,South Korea,North Korea,3,0,FIFA World Cup qualification,Doha,Qatar,True,South Korea,3,1993
 18220,1993-10-28,Saudi Arabia,Iran,4,3,FIFA World Cup qualification,Doha,Qatar,True,Saudi Arabia,1,1993
 18222,1993-10-31,Australia,Argentina,1,1,FIFA World Cup qualification,Sydney,Australia,False,draw,0,1993
 18231,1993-11-10,Portugal,Estonia,3,0,FIFA World Cup qualification,Lisbon,Portugal,False,Portugal,3,1993
@@ -1566,6 +1611,7 @@
 18551,1994-06-21,Germany,Spain,1,1,FIFA World Cup,Chicago,United States,True,draw,0,1994
 18553,1994-06-22,Romania,Switzerland,1,4,FIFA World Cup,Pontiac,United States,True,Switzerland,3,1994
 18554,1994-06-22,United States,Colombia,2,1,FIFA World Cup,Pasadena,United States,False,United States,1,1994
+18556,1994-06-23,South Korea,Bolivia,0,0,FIFA World Cup,Foxborough,United States,True,draw,0,1994
 18557,1994-06-24,Brazil,Cameroon,3,0,FIFA World Cup,Palo Alto,United States,True,Brazil,3,1994
 18558,1994-06-24,Mexico,Republic of Ireland,2,1,FIFA World Cup,Orlando,United States,True,Mexico,1,1994
 18560,1994-06-25,Argentina,Nigeria,2,1,FIFA World Cup,Foxborough,United States,True,Argentina,1,1994
@@ -1687,8 +1733,10 @@
 20381,1997-02-12,Ecuador,Uruguay,4,0,FIFA World Cup qualification,Quito,Ecuador,False,Ecuador,4,1997
 20382,1997-02-12,England,Italy,0,1,FIFA World Cup qualification,London,England,False,Italy,1,1997
 20385,1997-02-12,Spain,Malta,4,0,FIFA World Cup qualification,Alicante,Spain,False,Spain,4,1997
+20409,1997-02-22,Hong Kong,South Korea,0,2,FIFA World Cup qualification,Victoria,Hong Kong,False,South Korea,2,1997
 20438,1997-03-02,Jamaica,United States,0,0,FIFA World Cup qualification,Kingston,Jamaica,False,draw,0,1997
 20440,1997-03-02,Mexico,Canada,4,0,FIFA World Cup qualification,Mexico City,Mexico,False,Mexico,4,1997
+20442,1997-03-02,Thailand,South Korea,1,3,FIFA World Cup qualification,Bangkok,Thailand,False,South Korea,2,1997
 20459,1997-03-16,Costa Rica,Mexico,0,0,FIFA World Cup qualification,San José,Costa Rica,False,draw,0,1997
 20462,1997-03-16,United States,Canada,3,0,FIFA World Cup qualification,Palo Alto,United States,False,United States,3,1997
 20466,1997-03-18,Malaysia,Saudi Arabia,0,0,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False,draw,0,1997
@@ -1737,8 +1785,10 @@
 20631,1997-04-30,Turkey,Belgium,1,3,FIFA World Cup qualification,Istanbul,Turkey,False,Belgium,2,1997
 20635,1997-05-04,El Salvador,Costa Rica,2,1,FIFA World Cup qualification,San Salvador,El Salvador,False,El Salvador,1,1997
 20644,1997-05-11,Costa Rica,Jamaica,3,1,FIFA World Cup qualification,San José,Costa Rica,False,Costa Rica,2,1997
+20664,1997-05-28,South Korea,Hong Kong,4,0,FIFA World Cup qualification,Daejeon,South Korea,False,South Korea,4,1997
 20669,1997-05-31,Poland,England,0,2,FIFA World Cup qualification,Chorzów,Poland,False,England,2,1997
 20672,1997-06-01,Canada,Costa Rica,1,0,FIFA World Cup qualification,Edmonton,Canada,False,Canada,1,1997
+20675,1997-06-01,South Korea,Thailand,0,0,FIFA World Cup qualification,Seoul,South Korea,False,draw,0,1997
 20679,1997-06-02,Maldives,Iran,0,17,FIFA World Cup qualification,Damascus,Syria,True,Iran,17,1997
 20683,1997-06-04,Kyrgyzstan,Iran,0,7,FIFA World Cup qualification,Damascus,Syria,True,Iran,7,1997
 20693,1997-06-06,Syria,Iran,0,1,FIFA World Cup qualification,Damascus,Syria,False,Iran,1,1997
@@ -1788,6 +1838,7 @@
 20934,1997-08-20,Uruguay,Chile,1,0,FIFA World Cup qualification,Montevideo,Uruguay,False,Uruguay,1,1997
 20951,1997-09-06,Croatia,Bosnia and Herzegovina,3,2,FIFA World Cup qualification,Zagreb,Croatia,False,Croatia,1,1997
 20954,1997-09-06,Germany,Portugal,1,1,FIFA World Cup qualification,Berlin,Germany,False,draw,0,1997
+20956,1997-09-06,South Korea,Kazakhstan,3,0,FIFA World Cup qualification,Seoul,South Korea,False,South Korea,3,1997
 20960,1997-09-06,Netherlands,Belgium,3,1,FIFA World Cup qualification,Rotterdam,Netherlands,False,Netherlands,2,1997
 20964,1997-09-06,Switzerland,Finland,1,2,FIFA World Cup qualification,Lausanne,Switzerland,False,Finland,1,1997
 20966,1997-09-07,Jamaica,Canada,1,0,FIFA World Cup qualification,Kingston,Jamaica,False,Jamaica,1,1997
@@ -1800,6 +1851,7 @@
 20986,1997-09-10,Norway,Switzerland,5,0,FIFA World Cup qualification,Oslo,Norway,False,Norway,5,1997
 20988,1997-09-10,Peru,Uruguay,2,1,FIFA World Cup qualification,Lima,Peru,False,Peru,1,1997
 20991,1997-09-10,Slovakia,Serbia,1,1,FIFA World Cup qualification,Bratislava,Slovakia,False,draw,0,1997
+20995,1997-09-12,South Korea,Uzbekistan,2,1,FIFA World Cup qualification,Seoul,South Korea,False,South Korea,1,1997
 20997,1997-09-13,China PR,Iran,2,4,FIFA World Cup qualification,Dalian,China PR,False,Iran,2,1997
 21000,1997-09-14,El Salvador,Canada,4,1,FIFA World Cup qualification,San Salvador,El Salvador,False,El Salvador,3,1997
 21002,1997-09-14,Jamaica,Costa Rica,1,0,FIFA World Cup qualification,Kingston,Jamaica,False,Jamaica,1,1997
@@ -1815,6 +1867,7 @@
 21027,1997-10-03,Iran,Qatar,3,0,FIFA World Cup qualification,Tehran,Iran,False,Iran,3,1997
 21029,1997-10-03,United States,Jamaica,1,1,FIFA World Cup qualification,Washington,United States,False,draw,0,1997
 21030,1997-10-04,Kazakhstan,Japan,1,1,FIFA World Cup qualification,Almaty,Kazakhstan,False,draw,0,1997
+21031,1997-10-04,South Korea,United Arab Emirates,3,0,FIFA World Cup qualification,Seoul,South Korea,False,South Korea,3,1997
 21034,1997-10-05,Mexico,El Salvador,5,0,FIFA World Cup qualification,Mexico City,Mexico,False,Mexico,5,1997
 21035,1997-10-07,Moldova,Poland,0,3,FIFA World Cup qualification,Chișinău,Moldova,False,Poland,3,1997
 21041,1997-10-11,Belgium,Wales,3,2,FIFA World Cup qualification,Brussels,Belgium,False,Belgium,1,1997
@@ -1822,6 +1875,7 @@
 21047,1997-10-11,Germany,Albania,4,3,FIFA World Cup qualification,Hanover,Germany,False,Germany,1,1997
 21048,1997-10-11,Greece,Denmark,0,0,FIFA World Cup qualification,Athens,Greece,False,draw,0,1997
 21051,1997-10-11,Italy,England,0,0,FIFA World Cup qualification,Rome,Italy,False,draw,0,1997
+21052,1997-10-11,Kazakhstan,South Korea,1,1,FIFA World Cup qualification,Almaty,Kazakhstan,False,draw,0,1997
 21054,1997-10-11,Malta,Serbia,0,5,FIFA World Cup qualification,Attard,Malta,False,Serbia,5,1997
 21055,1997-10-11,Netherlands,Turkey,0,0,FIFA World Cup qualification,Amsterdam,Netherlands,False,draw,0,1997
 21056,1997-10-11,Portugal,Northern Ireland,1,0,FIFA World Cup qualification,Lisbon,Portugal,False,Portugal,1,1997
@@ -1835,6 +1889,7 @@
 21067,1997-10-12,Ecuador,Bolivia,1,0,FIFA World Cup qualification,Guayaquil,Ecuador,False,Ecuador,1,1997
 21070,1997-10-17,Iran,China PR,4,1,FIFA World Cup qualification,Tehran,Iran,False,Iran,3,1997
 21071,1997-10-17,Kuwait,Saudi Arabia,2,1,FIFA World Cup qualification,Kuwait City,Kuwait,False,Kuwait,1,1997
+21074,1997-10-18,Uzbekistan,South Korea,1,5,FIFA World Cup qualification,Tashkent,Uzbekistan,False,South Korea,4,1997
 21079,1997-10-24,Kuwait,Qatar,0,1,FIFA World Cup qualification,Kuwait City,Kuwait,False,Qatar,1,1997
 21080,1997-10-24,Saudi Arabia,Iran,1,0,FIFA World Cup qualification,Taif,Saudi Arabia,False,Saudi Arabia,1,1997
 21084,1997-10-26,Japan,United Arab Emirates,1,1,FIFA World Cup qualification,Tokyo,Japan,False,draw,0,1997
@@ -1850,6 +1905,7 @@
 21101,1997-11-08,Japan,Kazakhstan,5,1,FIFA World Cup qualification,Tokyo,Japan,False,Japan,4,1997
 21102,1997-11-09,Canada,United States,0,3,FIFA World Cup qualification,Burnaby,Canada,False,United States,3,1997
 21104,1997-11-09,Mexico,Costa Rica,3,3,FIFA World Cup qualification,Mexico City,Mexico,False,draw,0,1997
+21105,1997-11-09,United Arab Emirates,South Korea,1,3,FIFA World Cup qualification,Abu Dhabi,United Arab Emirates,False,South Korea,2,1997
 21109,1997-11-12,Qatar,Saudi Arabia,0,1,FIFA World Cup qualification,Doha,Qatar,False,Saudi Arabia,1,1997
 21111,1997-11-15,Belgium,Republic of Ireland,2,1,FIFA World Cup qualification,Brussels,Belgium,False,Belgium,1,1997
 21115,1997-11-15,Serbia,Hungary,5,0,FIFA World Cup qualification,Belgrade,Yugoslavia,True,Serbia,5,1997
@@ -2274,12 +2330,14 @@
 25026,2002-06-17,Brazil,Belgium,2,0,FIFA World Cup,Kobe,Japan,True,Brazil,2,2002
 25027,2002-06-17,Mexico,United States,0,2,FIFA World Cup,Jeonju,South Korea,True,United States,2,2002
 25028,2002-06-18,Japan,Turkey,0,1,FIFA World Cup,Rifu,Japan,False,Turkey,1,2002
+25029,2002-06-18,South Korea,Italy,2,1,FIFA World Cup,Daejeon,South Korea,False,South Korea,1,2002
 25030,2002-06-21,England,Brazil,1,2,FIFA World Cup,Fukuroi,Japan,True,Brazil,1,2002
 25031,2002-06-21,Germany,United States,1,0,FIFA World Cup,Ulsan,South Korea,True,Germany,1,2002
 25033,2002-06-22,South Korea,Spain,0,0,FIFA World Cup,Gwangju,South Korea,False,draw,0,2002
 25034,2002-06-22,Senegal,Turkey,0,1,FIFA World Cup,Osaka,Japan,True,Turkey,1,2002
 25036,2002-06-25,South Korea,Germany,0,1,FIFA World Cup,Seoul,South Korea,False,Germany,1,2002
 25038,2002-06-26,Brazil,Turkey,1,0,FIFA World Cup,Saitama,Japan,True,Brazil,1,2002
+25039,2002-06-29,South Korea,Turkey,2,3,FIFA World Cup,Daegu,South Korea,False,Turkey,1,2002
 25041,2002-06-30,Germany,Brazil,0,2,FIFA World Cup,Yokohama,Japan,True,Brazil,2,2002
 26021,2003-09-06,Argentina,Chile,2,2,FIFA World Cup qualification,Buenos Aires,Argentina,False,draw,0,2003
 26027,2003-09-06,Ecuador,Venezuela,2,0,FIFA World Cup qualification,Quito,Ecuador,False,Ecuador,2,2003
@@ -2299,10 +2357,12 @@
 26283,2003-11-19,Ghana,Somalia,2,0,FIFA World Cup qualification,Kumasi,Ghana,False,Ghana,2,2003
 26468,2004-02-18,Iran,Qatar,3,1,FIFA World Cup qualification,Tehran,Iran,False,Iran,2,2004
 26472,2004-02-18,Japan,Oman,1,0,FIFA World Cup qualification,Saitama,Japan,False,Japan,1,2004
+26474,2004-02-18,South Korea,Lebanon,2,0,FIFA World Cup qualification,Suwon,South Korea,False,South Korea,2,2004
 26488,2004-02-18,Saudi Arabia,Indonesia,3,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,False,Saudi Arabia,3,2004
 26541,2004-03-30,Argentina,Ecuador,1,0,FIFA World Cup qualification,Buenos Aires,Argentina,False,Argentina,1,2004
 26559,2004-03-31,Jordan,Qatar,1,0,FIFA World Cup qualification,Amman,Jordan,False,Jordan,1,2004
 26562,2004-03-31,Laos,Iran,0,7,FIFA World Cup qualification,Vientiane,Laos,False,Iran,7,2004
+26566,2004-03-31,Maldives,South Korea,0,0,FIFA World Cup qualification,Malé,Maldives,False,draw,0,2004
 26573,2004-03-31,Paraguay,Brazil,0,0,FIFA World Cup qualification,Asunción,Paraguay,False,draw,0,2004
 26579,2004-03-31,Singapore,Japan,1,2,FIFA World Cup qualification,Singapore,Singapore,False,Japan,1,2004
 26583,2004-03-31,Sri Lanka,Saudi Arabia,0,1,FIFA World Cup qualification,Colombo,Sri Lanka,False,Saudi Arabia,1,2004
@@ -2326,6 +2386,7 @@
 26777,2004-06-06,Colombia,Uruguay,5,0,FIFA World Cup qualification,Barranquilla,Colombia,False,Colombia,5,2004
 26794,2004-06-09,Iran,Jordan,0,1,FIFA World Cup qualification,Tehran,Iran,False,Jordan,1,2004
 26796,2004-06-09,Japan,India,7,0,FIFA World Cup qualification,Saitama,Japan,False,Japan,7,2004
+26797,2004-06-09,South Korea,Vietnam,2,0,FIFA World Cup qualification,Daejeon,South Korea,False,South Korea,2,2004
 26801,2004-06-09,Qatar,Laos,5,0,FIFA World Cup qualification,Doha,Qatar,False,Qatar,5,2004
 26802,2004-06-09,Saudi Arabia,Turkmenistan,3,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,False,Saudi Arabia,3,2004
 26808,2004-06-12,Cuba,Costa Rica,2,2,FIFA World Cup qualification,Havana,Cuba,False,draw,0,2004
@@ -2381,6 +2442,7 @@
 27122,2004-09-08,Switzerland,Republic of Ireland,1,1,FIFA World Cup qualification,Basel,Switzerland,False,draw,0,2004
 27124,2004-09-08,Trinidad and Tobago,Mexico,1,3,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False,Mexico,2,2004
 27125,2004-09-08,Turkmenistan,Saudi Arabia,0,1,FIFA World Cup qualification,Ashgabat,Turkmenistan,False,Saudi Arabia,1,2004
+27126,2004-09-08,Vietnam,South Korea,1,2,FIFA World Cup qualification,Ho Chi Minh City,Vietnam,False,South Korea,1,2004
 27127,2004-09-08,Wales,Northern Ireland,2,2,FIFA World Cup qualification,Cardiff,Wales,False,draw,0,2004
 27144,2004-10-09,Albania,Denmark,0,2,FIFA World Cup qualification,Tirana,Albania,False,Denmark,2,2004
 27145,2004-10-09,Argentina,Uruguay,4,2,FIFA World Cup qualification,Buenos Aires,Argentina,False,Argentina,2,2004
@@ -2411,6 +2473,7 @@
 27203,2004-10-13,Chile,Argentina,0,0,FIFA World Cup qualification,Santiago,Chile,False,draw,0,2004
 27204,2004-10-13,Cyprus,France,0,2,FIFA World Cup qualification,Nicosia,Cyprus,False,France,2,2004
 27205,2004-10-13,Denmark,Turkey,1,1,FIFA World Cup qualification,Copenhagen,Denmark,False,draw,0,2004
+27218,2004-10-13,Lebanon,South Korea,1,1,FIFA World Cup qualification,Beirut,Lebanon,False,draw,0,2004
 27219,2004-10-13,Lithuania,Spain,0,0,FIFA World Cup qualification,Vilnius,Lithuania,False,draw,0,2004
 27222,2004-10-13,Mexico,Trinidad and Tobago,3,0,FIFA World Cup qualification,Puebla,Mexico,False,Mexico,3,2004
 27224,2004-10-13,Netherlands,Finland,3,1,FIFA World Cup qualification,Amsterdam,Netherlands,False,Netherlands,2,2004
@@ -2431,6 +2494,7 @@
 27286,2004-11-17,Honduras,Costa Rica,0,0,FIFA World Cup qualification,San Pedro Sula,Honduras,False,draw,0,2004
 27288,2004-11-17,Iran,Laos,7,0,FIFA World Cup qualification,Tehran,Iran,False,Iran,7,2004
 27290,2004-11-17,Japan,Singapore,1,0,FIFA World Cup qualification,Saitama,Japan,False,Japan,1,2004
+27292,2004-11-17,South Korea,Maldives,2,0,FIFA World Cup qualification,Seoul,South Korea,False,South Korea,2,2004
 27296,2004-11-17,Luxembourg,Portugal,0,5,FIFA World Cup qualification,Luxembourg,Luxembourg,False,Portugal,5,2004
 27299,2004-11-17,Mexico,Saint Kitts and Nevis,8,0,FIFA World Cup qualification,Monterrey,Mexico,False,Mexico,8,2004
 27304,2004-11-17,Qatar,Jordan,2,0,FIFA World Cup qualification,Doha,Qatar,False,Qatar,2,2004
@@ -2441,6 +2505,7 @@
 27481,2005-02-09,Costa Rica,Mexico,1,2,FIFA World Cup qualification,San José,Costa Rica,False,Mexico,1,2005
 27488,2005-02-09,Greece,Denmark,2,1,FIFA World Cup qualification,Piraeus,Greece,False,Greece,1,2005
 27494,2005-02-09,Japan,North Korea,2,1,FIFA World Cup qualification,Saitama,Japan,False,Japan,1,2005
+27495,2005-02-09,South Korea,Kuwait,2,0,FIFA World Cup qualification,Seoul,South Korea,False,South Korea,2,2005
 27498,2005-02-09,Morocco,Kenya,5,1,FIFA World Cup qualification,Rabat,Morocco,False,Morocco,4,2005
 27505,2005-02-09,Spain,San Marino,5,0,FIFA World Cup qualification,Almería,Spain,False,Spain,5,2005
 27506,2005-02-09,Trinidad and Tobago,United States,1,2,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False,United States,1,2005
@@ -2473,6 +2538,7 @@
 27622,2005-03-30,Israel,France,1,1,FIFA World Cup qualification,Ramat-Gan,Israel,False,draw,0,2005
 27624,2005-03-30,Japan,Bahrain,1,0,FIFA World Cup qualification,Saitama,Japan,False,Japan,1,2005
 27625,2005-03-30,North Korea,Iran,0,2,FIFA World Cup qualification,Pyongyang,North Korea,False,Iran,2,2005
+27626,2005-03-30,South Korea,Uzbekistan,2,1,FIFA World Cup qualification,Seoul,South Korea,False,South Korea,1,2005
 27627,2005-03-30,Kuwait,Saudi Arabia,0,0,FIFA World Cup qualification,Kuwait City,Kuwait,False,draw,0,2005
 27631,2005-03-30,Netherlands,Armenia,2,0,FIFA World Cup qualification,Eindhoven,Netherlands,False,Netherlands,2,2005
 27632,2005-03-30,Panama,Mexico,1,1,FIFA World Cup qualification,Panama City,Panama,False,draw,0,2005
@@ -2489,6 +2555,7 @@
 27680,2005-06-03,Bahrain,Japan,0,1,FIFA World Cup qualification,Riffa,Bahrain,False,Japan,1,2005
 27681,2005-06-03,Iran,North Korea,1,0,FIFA World Cup qualification,Tehran,Iran,False,Iran,1,2005
 27683,2005-06-03,Saudi Arabia,Kuwait,3,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,False,Saudi Arabia,3,2005
+27684,2005-06-03,Uzbekistan,South Korea,1,1,FIFA World Cup qualification,Tashkent,Uzbekistan,False,draw,0,2005
 27687,2005-06-04,Azerbaijan,Poland,0,3,FIFA World Cup qualification,Baku,Azerbaijan,False,Poland,3,2005
 27689,2005-06-04,Benin,Cameroon,1,4,FIFA World Cup qualification,Cotonou,Benin,False,Cameroon,3,2005
 27690,2005-06-04,Botswana,Tunisia,1,3,FIFA World Cup qualification,Gaborone,Botswana,False,Tunisia,2,2005
@@ -2515,6 +2582,7 @@
 27741,2005-06-08,Finland,Netherlands,0,4,FIFA World Cup qualification,Helsinki,Finland,False,Netherlands,4,2005
 27745,2005-06-08,Iran,Bahrain,1,0,FIFA World Cup qualification,Tehran,Iran,False,Iran,1,2005
 27749,2005-06-08,North Korea,Japan,0,2,FIFA World Cup qualification,Bangkok,Thailand,True,Japan,2,2005
+27750,2005-06-08,Kuwait,South Korea,0,4,FIFA World Cup qualification,Kuwait City,Kuwait,False,South Korea,4,2005
 27754,2005-06-08,Mexico,Trinidad and Tobago,2,0,FIFA World Cup qualification,Monterrey,Mexico,False,Mexico,2,2005
 27755,2005-06-08,Panama,United States,0,3,FIFA World Cup qualification,Panama City,Panama,False,United States,3,2005
 27758,2005-06-08,Saudi Arabia,Uzbekistan,3,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,False,Saudi Arabia,3,2005
@@ -2618,6 +2686,7 @@
 28542,2006-06-12,United States,Czech Republic,0,3,FIFA World Cup,Gelsenkirchen,Germany,True,Czech Republic,3,2006
 28543,2006-06-13,Brazil,Croatia,1,0,FIFA World Cup,Berlin,Germany,True,Brazil,1,2006
 28544,2006-06-13,France,Switzerland,0,0,FIFA World Cup,Stuttgart,Germany,True,draw,0,2006
+28545,2006-06-13,South Korea,Togo,2,1,FIFA World Cup,Frankfurt am Main,Germany,True,South Korea,1,2006
 28546,2006-06-14,Germany,Poland,1,0,FIFA World Cup,Dortmund,Germany,False,Germany,1,2006
 28547,2006-06-14,Spain,Ukraine,4,0,FIFA World Cup,Leipzig,Germany,True,Spain,4,2006
 28548,2006-06-14,Tunisia,Saudi Arabia,2,2,FIFA World Cup,Munich,Germany,True,draw,0,2006
@@ -2683,13 +2752,16 @@
 30121,2008-02-06,Australia,Qatar,3,0,FIFA World Cup qualification,Melbourne,Australia,False,Australia,3,2008
 30136,2008-02-06,Iran,Syria,0,0,FIFA World Cup qualification,Tehran,Iran,False,draw,0,2008
 30142,2008-02-06,Japan,Thailand,4,1,FIFA World Cup qualification,Saitama,Japan,False,Japan,3,2008
+30145,2008-02-06,South Korea,Turkmenistan,4,0,FIFA World Cup qualification,Seoul,South Korea,False,South Korea,4,2008
 30152,2008-02-06,Saudi Arabia,Singapore,2,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,False,Saudi Arabia,2,2008
 30206,2008-03-26,Bahrain,Japan,1,0,FIFA World Cup qualification,Riffa,Bahrain,False,Bahrain,1,2008
 30214,2008-03-26,China PR,Australia,0,0,FIFA World Cup qualification,Kunming,China PR,False,draw,0,2008
+30228,2008-03-26,North Korea,South Korea,0,0,FIFA World Cup qualification,Shanghai,China PR,True,draw,0,2008
 30229,2008-03-26,Kuwait,Iran,2,2,FIFA World Cup qualification,Kuwait City,Kuwait,False,draw,0,2008
 30241,2008-03-26,Qatar,Iraq,2,0,FIFA World Cup qualification,Doha,Qatar,False,Qatar,2,2008
 30257,2008-03-26,Uzbekistan,Saudi Arabia,3,0,FIFA World Cup qualification,Tashkent,Uzbekistan,False,Uzbekistan,3,2008
 30361,2008-05-31,Cameroon,Cape Verde,2,0,FIFA World Cup qualification,Yaoundé,Cameroon,False,Cameroon,2,2008
+30366,2008-05-31,South Korea,Jordan,2,2,FIFA World Cup qualification,Seoul,South Korea,False,draw,0,2008
 30368,2008-05-31,Morocco,Ethiopia,3,0,FIFA World Cup qualification,Casablanca,Morocco,False,Morocco,3,2008
 30373,2008-05-31,Senegal,Algeria,1,0,FIFA World Cup qualification,Dakar,Senegal,False,Senegal,1,2008
 30380,2008-06-01,Australia,Iraq,1,0,FIFA World Cup qualification,Brisbane,Australia,False,Australia,1,2008
@@ -2701,6 +2773,7 @@
 30402,2008-06-02,Saudi Arabia,Lebanon,4,1,FIFA World Cup qualification,Riyadh,Saudi Arabia,False,Saudi Arabia,3,2008
 30433,2008-06-07,China PR,Qatar,0,1,FIFA World Cup qualification,Tianjin,China PR,False,Qatar,1,2008
 30436,2008-06-07,Iraq,Australia,1,0,FIFA World Cup qualification,Dubai,United Arab Emirates,True,Iraq,1,2008
+30437,2008-06-07,Jordan,South Korea,0,1,FIFA World Cup qualification,Amman,Jordan,False,South Korea,1,2008
 30442,2008-06-07,Mauritania,Morocco,1,4,FIFA World Cup qualification,Nouakchott,Mauritania,False,Morocco,3,2008
 30443,2008-06-07,Oman,Japan,1,1,FIFA World Cup qualification,Muscat,Oman,False,draw,0,2008
 30446,2008-06-07,Saudi Arabia,Lebanon,2,1,FIFA World Cup qualification,Riyadh,Saudi Arabia,False,Saudi Arabia,1,2008
@@ -2717,6 +2790,7 @@
 30517,2008-06-14,Syria,Iran,0,2,FIFA World Cup qualification,Damascus,Syria,False,Iran,2,2008
 30518,2008-06-14,Tanzania,Cameroon,0,0,FIFA World Cup qualification,Dar es Salaam,Tanzania,False,draw,0,2008
 30519,2008-06-14,Thailand,Japan,0,3,FIFA World Cup qualification,Bangkok,Thailand,False,Japan,3,2008
+30520,2008-06-14,Turkmenistan,South Korea,1,3,FIFA World Cup qualification,Ashgabat,Turkmenistan,False,South Korea,2,2008
 30522,2008-06-14,Uruguay,Venezuela,1,1,FIFA World Cup qualification,Montevideo,Uruguay,False,draw,0,2008
 30525,2008-06-15,Argentina,Ecuador,1,1,FIFA World Cup qualification,Buenos Aires,Argentina,False,draw,0,2008
 30526,2008-06-15,Belize,Mexico,0,2,FIFA World Cup qualification,Houston,United States,True,Mexico,2,2008
@@ -2740,6 +2814,7 @@
 30590,2008-06-22,Iran,Kuwait,2,0,FIFA World Cup qualification,Tehran,Iran,False,Iran,2,2008
 30591,2008-06-22,Iraq,Qatar,0,1,FIFA World Cup qualification,Dubai,United Arab Emirates,True,Qatar,1,2008
 30593,2008-06-22,Japan,Bahrain,1,0,FIFA World Cup qualification,Saitama,Japan,False,Japan,1,2008
+30595,2008-06-22,South Korea,North Korea,0,0,FIFA World Cup qualification,Seoul,South Korea,False,draw,0,2008
 30600,2008-06-22,Saudi Arabia,Uzbekistan,4,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,False,Saudi Arabia,4,2008
 30688,2008-08-20,Canada,Jamaica,1,1,FIFA World Cup qualification,Toronto,Canada,False,draw,0,2008
 30691,2008-08-20,Costa Rica,El Salvador,1,0,FIFA World Cup qualification,San José,Costa Rica,False,Costa Rica,1,2008
@@ -2774,6 +2849,7 @@
 30823,2008-09-10,Finland,Germany,3,3,FIFA World Cup qualification,Helsinki,Finland,False,draw,0,2008
 30824,2008-09-10,France,Serbia,2,1,FIFA World Cup qualification,Saint-Denis,France,False,France,1,2008
 30826,2008-09-10,Haiti,Costa Rica,1,3,FIFA World Cup qualification,Port-au-Prince,Haiti,False,Costa Rica,2,2008
+30831,2008-09-10,North Korea,South Korea,1,1,FIFA World Cup qualification,Shanghai,China PR,True,draw,0,2008
 30834,2008-09-10,North Macedonia,Netherlands,1,2,FIFA World Cup qualification,Skopje,North Macedonia,False,Netherlands,1,2008
 30835,2008-09-10,Mexico,Canada,2,1,FIFA World Cup qualification,Tuxtla Gutiérrez,Mexico,False,Mexico,1,2008
 30841,2008-09-10,Peru,Argentina,1,1,FIFA World Cup qualification,Lima,Peru,False,draw,0,2008
@@ -2827,6 +2903,7 @@
 30964,2008-10-15,Greece,Switzerland,1,2,FIFA World Cup qualification,Athens,Greece,False,Switzerland,1,2008
 30968,2008-10-15,Iran,North Korea,2,1,FIFA World Cup qualification,Tehran,Iran,False,Iran,1,2008
 30972,2008-10-15,Japan,Uzbekistan,1,1,FIFA World Cup qualification,Saitama,Japan,False,draw,0,2008
+30973,2008-10-15,South Korea,United Arab Emirates,4,1,FIFA World Cup qualification,Seoul,South Korea,False,South Korea,3,2008
 30980,2008-10-15,Norway,Netherlands,0,1,FIFA World Cup qualification,Oslo,Norway,False,Netherlands,1,2008
 30982,2008-10-15,Portugal,Albania,0,0,FIFA World Cup qualification,Braga,Portugal,False,draw,0,2008
 30984,2008-10-15,Slovakia,Poland,2,1,FIFA World Cup qualification,Bratislava,Slovakia,False,Slovakia,1,2008
@@ -2876,6 +2953,7 @@
 31352,2009-04-01,England,Ukraine,2,1,FIFA World Cup qualification,London,England,False,England,1,2009
 31354,2009-04-01,France,Lithuania,1,0,FIFA World Cup qualification,Saint-Denis,France,False,France,1,2009
 31357,2009-04-01,Honduras,Mexico,3,1,FIFA World Cup qualification,San Pedro Sula,Honduras,False,Honduras,2,2009
+31362,2009-04-01,South Korea,North Korea,1,0,FIFA World Cup qualification,Seoul,South Korea,False,South Korea,1,2009
 31367,2009-04-01,Netherlands,North Macedonia,4,0,FIFA World Cup qualification,Amsterdam,Netherlands,False,Netherlands,4,2009
 31370,2009-04-01,Poland,San Marino,10,0,FIFA World Cup qualification,Kielce,Poland,False,Poland,10,2009
 31371,2009-04-01,Saudi Arabia,United Arab Emirates,3,2,FIFA World Cup qualification,Riyadh,Saudi Arabia,False,Saudi Arabia,1,2009
@@ -2901,6 +2979,7 @@
 31466,2009-06-06,Sweden,Denmark,0,1,FIFA World Cup qualification,Solna,Sweden,False,Denmark,1,2009
 31467,2009-06-06,Trinidad and Tobago,Costa Rica,2,3,FIFA World Cup qualification,Scarborough,Trinidad and Tobago,False,Costa Rica,1,2009
 31468,2009-06-06,Tunisia,Mozambique,2,0,FIFA World Cup qualification,Radès,Tunisia,False,Tunisia,2,2009
+31469,2009-06-06,United Arab Emirates,South Korea,0,2,FIFA World Cup qualification,Dubai,United Arab Emirates,False,South Korea,2,2009
 31470,2009-06-06,Uruguay,Brazil,0,4,FIFA World Cup qualification,Montevideo,Uruguay,False,Brazil,4,2009
 31471,2009-06-06,United States,Honduras,2,1,FIFA World Cup qualification,Chicago,United States,False,United States,1,2009
 31472,2009-06-06,Uzbekistan,Japan,0,1,FIFA World Cup qualification,Tashkent,Uzbekistan,False,Japan,1,2009
@@ -3013,6 +3092,7 @@
 32316,2010-06-11,Uruguay,France,0,0,FIFA World Cup,Cape Town,South Africa,True,draw,0,2010
 32317,2010-06-12,Argentina,Nigeria,1,0,FIFA World Cup,Johannesburg,South Africa,True,Argentina,1,2010
 32318,2010-06-12,England,United States,1,1,FIFA World Cup,Rustenburg,South Africa,True,draw,0,2010
+32319,2010-06-12,South Korea,Greece,2,0,FIFA World Cup,Port Elizabeth,South Africa,True,South Korea,2,2010
 32321,2010-06-13,Germany,Australia,4,0,FIFA World Cup,Durban,South Africa,True,Germany,4,2010
 32322,2010-06-13,Serbia,Ghana,0,1,FIFA World Cup,Pretoria,South Africa,True,Ghana,1,2010
 32324,2010-06-14,Japan,Cameroon,1,0,FIFA World Cup,Bloemfontein,South Africa,True,Japan,1,2010
@@ -3035,6 +3115,7 @@
 32352,2010-06-21,Spain,Honduras,2,0,FIFA World Cup,Johannesburg,South Africa,True,Spain,2,2010
 32353,2010-06-22,Greece,Argentina,0,2,FIFA World Cup,Polokwane,South Africa,True,Argentina,2,2010
 32354,2010-06-22,Mexico,Uruguay,0,1,FIFA World Cup,Rustenburg,South Africa,True,Uruguay,1,2010
+32355,2010-06-22,Nigeria,South Korea,2,2,FIFA World Cup,Durban,South Africa,True,draw,0,2010
 32356,2010-06-22,South Africa,France,2,1,FIFA World Cup,Bloemfontein,South Africa,False,South Africa,1,2010
 32357,2010-06-23,Australia,Serbia,2,1,FIFA World Cup,Nelspruit,South Africa,True,Australia,1,2010
 32358,2010-06-23,Ghana,Germany,0,1,FIFA World Cup,Johannesburg,South Africa,True,Germany,1,2010
@@ -3072,7 +3153,9 @@
 33519,2011-09-02,Canada,Saint Lucia,4,1,FIFA World Cup qualification,Toronto,Canada,False,Canada,3,2011
 33534,2011-09-02,Iran,Indonesia,3,0,FIFA World Cup qualification,Tehran,Iran,False,Iran,3,2011
 33538,2011-09-02,Japan,North Korea,1,0,FIFA World Cup qualification,Saitama,Japan,False,Japan,1,2011
+33539,2011-09-02,South Korea,Lebanon,6,0,FIFA World Cup qualification,Goyang,South Korea,False,South Korea,6,2011
 33546,2011-09-02,Oman,Saudi Arabia,0,0,FIFA World Cup qualification,Muscat,Oman,False,draw,0,2011
+33622,2011-09-06,Kuwait,South Korea,1,1,FIFA World Cup qualification,Kuwait City,Kuwait,False,draw,0,2011
 33631,2011-09-06,Puerto Rico,Canada,0,3,FIFA World Cup qualification,Bayamón,Puerto Rico,False,Canada,3,2011
 33632,2011-09-06,Qatar,Iran,1,1,FIFA World Cup qualification,Doha,Qatar,False,draw,0,2011
 33636,2011-09-06,Saudi Arabia,Australia,1,3,FIFA World Cup qualification,Riyadh,Saudi Arabia,False,Australia,2,2011
@@ -3086,6 +3169,7 @@
 33756,2011-10-11,Indonesia,Qatar,2,3,FIFA World Cup qualification,Jakarta,Indonesia,False,Qatar,1,2011
 33757,2011-10-11,Iran,Bahrain,6,0,FIFA World Cup qualification,Tehran,Iran,False,Iran,6,2011
 33760,2011-10-11,Japan,Tajikistan,8,0,FIFA World Cup qualification,Osaka,Japan,False,Japan,8,2011
+33763,2011-10-11,South Korea,United Arab Emirates,2,1,FIFA World Cup qualification,Suwon,South Korea,False,South Korea,1,2011
 33772,2011-10-11,Paraguay,Uruguay,1,1,FIFA World Cup qualification,Asunción,Paraguay,False,draw,0,2011
 33782,2011-10-11,Thailand,Saudi Arabia,0,0,FIFA World Cup qualification,Bangkok,Thailand,False,draw,0,2011
 33786,2011-10-11,Venezuela,Argentina,1,0,FIFA World Cup qualification,Puerto la Cruz,Venezuela,False,Venezuela,1,2011
@@ -3097,18 +3181,21 @@
 33836,2011-11-11,Saudi Arabia,Thailand,3,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,False,Saudi Arabia,3,2011
 33838,2011-11-11,Saint Kitts and Nevis,Canada,0,0,FIFA World Cup qualification,Basseterre,Saint Kitts and Nevis,False,draw,0,2011
 33841,2011-11-11,Tajikistan,Japan,0,4,FIFA World Cup qualification,Dushanbe,Tajikistan,False,Japan,4,2011
+33844,2011-11-11,United Arab Emirates,South Korea,0,2,FIFA World Cup qualification,Dubai,United Arab Emirates,False,South Korea,2,2011
 33845,2011-11-11,Uruguay,Chile,4,0,FIFA World Cup qualification,Montevideo,Uruguay,False,Uruguay,4,2011
 33864,2011-11-15,Canada,Saint Kitts and Nevis,4,0,FIFA World Cup qualification,Toronto,Canada,False,Canada,4,2011
 33866,2011-11-15,Colombia,Argentina,1,2,FIFA World Cup qualification,Barranquilla,Colombia,False,Argentina,1,2011
 33873,2011-11-15,Ecuador,Peru,2,0,FIFA World Cup qualification,Quito,Ecuador,False,Ecuador,2,2011
 33883,2011-11-15,Indonesia,Iran,1,4,FIFA World Cup qualification,Jakarta,Indonesia,False,Iran,3,2011
 33888,2011-11-15,North Korea,Japan,1,0,FIFA World Cup qualification,Pyongyang,North Korea,False,North Korea,1,2011
+33890,2011-11-15,Lebanon,South Korea,2,1,FIFA World Cup qualification,Beirut,Lebanon,False,Lebanon,1,2011
 33902,2011-11-15,Qatar,Bahrain,0,0,FIFA World Cup qualification,Doha,Qatar,False,draw,0,2011
 33904,2011-11-15,Saudi Arabia,Oman,0,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,False,draw,0,2011
 33908,2011-11-15,Thailand,Australia,0,1,FIFA World Cup qualification,Bangkok,Thailand,False,Australia,1,2011
 34060,2012-02-29,Australia,Saudi Arabia,4,2,FIFA World Cup qualification,Melbourne,Australia,False,Australia,2,2012
 34085,2012-02-29,Iran,Qatar,2,2,FIFA World Cup qualification,Tehran,Iran,False,draw,0,2012
 34091,2012-02-29,Japan,Uzbekistan,0,1,FIFA World Cup qualification,Toyota,Japan,False,Uzbekistan,1,2012
+34093,2012-02-29,South Korea,Kuwait,2,0,FIFA World Cup qualification,Seoul,South Korea,False,South Korea,2,2012
 34231,2012-06-01,Ghana,Lesotho,7,0,FIFA World Cup qualification,Kumasi,Ghana,False,Ghana,7,2012
 34243,2012-06-02,Argentina,Ecuador,4,0,FIFA World Cup qualification,Buenos Aires,Argentina,False,Argentina,4,2012
 34246,2012-06-02,Cameroon,DR Congo,1,0,FIFA World Cup qualification,Yaoundé,Cameroon,False,Cameroon,1,2012
@@ -3139,6 +3226,7 @@
 34376,2012-06-12,Guatemala,United States,1,1,FIFA World Cup qualification,Guatemala,Guatemala,False,draw,0,2012
 34377,2012-06-12,Guyana,Costa Rica,0,4,FIFA World Cup qualification,Providence,Guyana,False,Costa Rica,4,2012
 34378,2012-06-12,Iran,Qatar,0,0,FIFA World Cup qualification,Tehran,Iran,False,draw,0,2012
+34380,2012-06-12,South Korea,Lebanon,3,0,FIFA World Cup qualification,Goyang,South Korea,False,South Korea,3,2012
 34525,2012-09-07,Argentina,Paraguay,3,1,FIFA World Cup qualification,Córdoba,Argentina,False,Argentina,2,2012
 34531,2012-09-07,Canada,Panama,1,0,FIFA World Cup qualification,Toronto,Canada,False,Canada,1,2012
 34532,2012-09-07,Colombia,Uruguay,4,0,FIFA World Cup qualification,Barranquilla,Colombia,False,Colombia,4,2012
@@ -3174,6 +3262,7 @@
 34632,2012-09-11,Switzerland,Albania,2,0,FIFA World Cup qualification,Lucerne,Switzerland,False,Switzerland,2,2012
 34636,2012-09-11,Uruguay,Ecuador,1,1,FIFA World Cup qualification,Montevideo,Uruguay,False,draw,0,2012
 34637,2012-09-11,United States,Jamaica,1,0,FIFA World Cup qualification,Columbus,United States,False,United States,1,2012
+34638,2012-09-11,Uzbekistan,South Korea,2,2,FIFA World Cup qualification,Tashkent,Uzbekistan,False,draw,0,2012
 34686,2012-10-12,Antigua and Barbuda,United States,1,2,FIFA World Cup qualification,St. John's,Antigua and Barbuda,False,United States,1,2012
 34687,2012-10-12,Argentina,Uruguay,3,0,FIFA World Cup qualification,Mendoza,Argentina,False,Argentina,3,2012
 34690,2012-10-12,Belarus,Spain,0,4,FIFA World Cup qualification,Minsk,Belarus,False,Spain,4,2012
@@ -3257,6 +3346,7 @@
 35275,2013-03-26,Wales,Croatia,1,2,FIFA World Cup qualification,Swansea,Wales,False,Croatia,1,2013
 35319,2013-06-04,Jamaica,Mexico,0,1,FIFA World Cup qualification,Kingston,Jamaica,False,Mexico,1,2013
 35320,2013-06-04,Japan,Australia,1,1,FIFA World Cup qualification,Saitama,Japan,False,draw,0,2013
+35322,2013-06-04,Lebanon,South Korea,1,1,FIFA World Cup qualification,Beirut,Lebanon,False,draw,0,2013
 35325,2013-06-04,Qatar,Iran,0,1,FIFA World Cup qualification,Doha,Qatar,False,Iran,1,2013
 35335,2013-06-07,Argentina,Colombia,0,0,FIFA World Cup qualification,Buenos Aires,Argentina,False,draw,0,2013
 35339,2013-06-07,Belgium,Serbia,2,1,FIFA World Cup qualification,Brussels,Belgium,False,Belgium,1,2013
@@ -3278,6 +3368,7 @@
 35389,2013-06-11,Ecuador,Argentina,1,1,FIFA World Cup qualification,Quito,Ecuador,False,draw,0,2013
 35393,2013-06-11,Iran,Lebanon,4,0,FIFA World Cup qualification,Tehran,Iran,False,Iran,4,2013
 35394,2013-06-11,Iraq,Japan,0,1,FIFA World Cup qualification,Doha,Qatar,True,Japan,1,2013
+35396,2013-06-11,South Korea,Uzbekistan,1,0,FIFA World Cup qualification,Seoul,South Korea,False,South Korea,1,2013
 35397,2013-06-11,Mexico,Costa Rica,0,0,FIFA World Cup qualification,Mexico City,Mexico,False,draw,0,2013
 35402,2013-06-11,United States,Panama,2,0,FIFA World Cup qualification,Seattle,United States,False,United States,2,2013
 35403,2013-06-11,Venezuela,Uruguay,0,1,FIFA World Cup qualification,Puerto Ordaz,Venezuela,False,Uruguay,1,2013
@@ -3385,6 +3476,7 @@
 36284,2014-06-16,Iran,Nigeria,0,0,FIFA World Cup,Curitiba,Brazil,True,draw,0,2014
 36285,2014-06-17,Belgium,Algeria,2,1,FIFA World Cup,Belo Horizonte,Brazil,True,Belgium,1,2014
 36286,2014-06-17,Brazil,Mexico,0,0,FIFA World Cup,Fortaleza,Brazil,False,draw,0,2014
+36287,2014-06-17,Russia,South Korea,1,1,FIFA World Cup,Cuiabá,Brazil,True,draw,0,2014
 36288,2014-06-18,Australia,Netherlands,2,3,FIFA World Cup,Curitiba,Brazil,True,Netherlands,1,2014
 36289,2014-06-18,Cameroon,Croatia,0,4,FIFA World Cup,Manaus,Brazil,True,Croatia,4,2014
 36291,2014-06-18,Spain,Chile,0,2,FIFA World Cup,Rio de Janeiro,Brazil,True,Chile,2,2014
@@ -3396,6 +3488,7 @@
 36298,2014-06-21,Argentina,Iran,1,0,FIFA World Cup,Belo Horizonte,Brazil,True,Argentina,1,2014
 36299,2014-06-21,Germany,Ghana,2,2,FIFA World Cup,Fortaleza,Brazil,True,draw,0,2014
 36302,2014-06-22,Belgium,Russia,1,0,FIFA World Cup,Rio de Janeiro,Brazil,True,Belgium,1,2014
+36304,2014-06-22,South Korea,Algeria,2,4,FIFA World Cup,Porto Alegre,Brazil,True,Algeria,2,2014
 36305,2014-06-22,United States,Portugal,2,2,FIFA World Cup,Manaus,Brazil,True,draw,0,2014
 36306,2014-06-23,Australia,Spain,0,3,FIFA World Cup,Curitiba,Brazil,True,Spain,3,2014
 36307,2014-06-23,Brazil,Cameroon,4,1,FIFA World Cup,Brasília,Brazil,False,Brazil,3,2014
@@ -3429,23 +3522,27 @@
 36343,2014-07-13,Germany,Argentina,1,0,FIFA World Cup,Rio de Janeiro,Brazil,True,Germany,1,2014
 37136,2015-06-11,Maldives,Qatar,0,1,FIFA World Cup qualification,Malé,Maldives,False,Qatar,1,2015
 37138,2015-06-11,Saudi Arabia,Palestine,3,2,FIFA World Cup qualification,Dammam,Saudi Arabia,False,Saudi Arabia,1,2015
+37209,2015-06-16,Myanmar,South Korea,0,2,FIFA World Cup qualification,Bangkok,Thailand,True,South Korea,2,2015
 37216,2015-06-16,Japan,Singapore,0,0,FIFA World Cup qualification,Saitama,Japan,False,draw,0,2015
 37219,2015-06-16,Kyrgyzstan,Australia,1,2,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False,Australia,1,2015
 37226,2015-06-16,Turkmenistan,Iran,1,1,FIFA World Cup qualification,Daşoguz,Turkmenistan,False,draw,0,2015
 37358,2015-09-03,Australia,Bangladesh,5,0,FIFA World Cup qualification,Perth,Australia,False,Australia,5,2015
 37366,2015-09-03,Iran,Guam,6,0,FIFA World Cup qualification,Tehran,Iran,False,Iran,6,2015
 37370,2015-09-03,Japan,Cambodia,3,0,FIFA World Cup qualification,Saitama,Japan,False,Japan,3,2015
+37372,2015-09-03,South Korea,Laos,8,0,FIFA World Cup qualification,Hwaseong,South Korea,False,South Korea,8,2015
 37377,2015-09-03,Qatar,Bhutan,15,0,FIFA World Cup qualification,Doha,Qatar,False,Qatar,15,2015
 37378,2015-09-03,Saudi Arabia,Timor-Leste,7,0,FIFA World Cup qualification,Jeddah,Saudi Arabia,False,Saudi Arabia,7,2015
 37449,2015-09-08,Afghanistan,Japan,0,6,FIFA World Cup qualification,Tehran,Iran,True,Japan,6,2015
 37458,2015-09-08,Hong Kong,Qatar,2,3,FIFA World Cup qualification,Kowloon,Hong Kong,False,Qatar,1,2015
 37459,2015-09-08,India,Iran,0,3,FIFA World Cup qualification,Bangalore,India,False,Iran,3,2015
+37461,2015-09-08,Lebanon,South Korea,0,3,FIFA World Cup qualification,Sidon,Lebanon,False,South Korea,3,2015
 37465,2015-09-08,Malaysia,Saudi Arabia,0,3,FIFA World Cup qualification,Shah Alam,Malaysia,False,Saudi Arabia,3,2015
 37475,2015-09-08,Tajikistan,Australia,0,3,FIFA World Cup qualification,Dushanbe,Tajikistan,False,Australia,3,2015
 37490,2015-10-08,Argentina,Ecuador,0,2,FIFA World Cup qualification,Buenos Aires,Argentina,False,Ecuador,2,2015
 37493,2015-10-08,Bolivia,Uruguay,0,2,FIFA World Cup qualification,La Paz,Bolivia,False,Uruguay,2,2015
 37495,2015-10-08,Chile,Brazil,2,0,FIFA World Cup qualification,Santiago,Chile,False,Chile,2,2015
 37502,2015-10-08,Jordan,Australia,2,0,FIFA World Cup qualification,Amman,Jordan,False,Jordan,2,2015
+37504,2015-10-08,Kuwait,South Korea,0,1,FIFA World Cup qualification,Kuwait City,Kuwait,False,South Korea,1,2015
 37510,2015-10-08,Oman,Iran,1,1,FIFA World Cup qualification,Muscat,Oman,False,draw,0,2015
 37512,2015-10-08,Qatar,China PR,1,0,FIFA World Cup qualification,Doha,Qatar,False,Qatar,1,2015
 37515,2015-10-08,Saudi Arabia,United Arab Emirates,2,1,FIFA World Cup qualification,Jeddah,Saudi Arabia,False,Saudi Arabia,1,2015
@@ -3459,6 +3556,7 @@
 37661,2015-11-12,Australia,Kyrgyzstan,3,0,FIFA World Cup qualification,Canberra,Australia,False,Australia,3,2015
 37667,2015-11-12,Ecuador,Uruguay,2,1,FIFA World Cup qualification,Quito,Ecuador,False,Ecuador,1,2015
 37669,2015-11-12,Iran,Turkmenistan,3,1,FIFA World Cup qualification,Tehran,Iran,False,Iran,2,2015
+37670,2015-11-12,South Korea,Myanmar,4,0,FIFA World Cup qualification,Suwon,South Korea,False,South Korea,4,2015
 37674,2015-11-12,Morocco,Equatorial Guinea,2,0,FIFA World Cup qualification,Agadir,Morocco,False,Morocco,2,2015
 37680,2015-11-12,Singapore,Japan,0,3,FIFA World Cup qualification,Kallang,Singapore,False,Japan,3,2015
 37687,2015-11-13,Argentina,Brazil,1,1,FIFA World Cup qualification,Buenos Aires,Argentina,False,draw,0,2015
@@ -3478,6 +3576,7 @@
 37745,2015-11-17,Ghana,Comoros,2,0,FIFA World Cup qualification,Kumasi,Ghana,False,Ghana,2,2015
 37746,2015-11-17,Guam,Iran,0,6,FIFA World Cup qualification,Dededo,Guam,False,Iran,6,2015
 37747,2015-11-17,Honduras,Mexico,0,2,FIFA World Cup qualification,San Pedro Sula,Honduras,False,Mexico,2,2015
+37753,2015-11-17,Laos,South Korea,0,5,FIFA World Cup qualification,Vientiane,Laos,False,South Korea,5,2015
 37763,2015-11-17,Senegal,Madagascar,3,0,FIFA World Cup qualification,Dakar,Senegal,False,Senegal,3,2015
 37768,2015-11-17,Tunisia,Mauritania,2,1,FIFA World Cup qualification,Radès,Tunisia,False,Tunisia,1,2015
 37771,2015-11-17,Uruguay,Chile,3,0,FIFA World Cup qualification,Montevideo,Uruguay,False,Uruguay,3,2015
@@ -3487,6 +3586,7 @@
 37900,2016-03-24,Ecuador,Paraguay,2,2,FIFA World Cup qualification,Quito,Ecuador,False,draw,0,2016
 37904,2016-03-24,Iran,India,4,0,FIFA World Cup qualification,Tehran,Iran,False,Iran,4,2016
 37907,2016-03-24,Japan,Afghanistan,5,0,FIFA World Cup qualification,Saitama,Japan,False,Japan,5,2016
+37909,2016-03-24,South Korea,Lebanon,1,0,FIFA World Cup qualification,Ansan,South Korea,False,South Korea,1,2016
 37914,2016-03-24,Qatar,Hong Kong,2,0,FIFA World Cup qualification,Doha,Qatar,False,Qatar,2,2016
 37915,2016-03-24,Saudi Arabia,Malaysia,2,0,FIFA World Cup qualification,Jeddah,Saudi Arabia,False,Saudi Arabia,2,2016
 37927,2016-03-25,Brazil,Uruguay,2,2,FIFA World Cup qualification,Recife,Brazil,False,draw,0,2016
@@ -3510,6 +3610,7 @@
 38372,2016-09-01,Ecuador,Brazil,0,3,FIFA World Cup qualification,Quito,Ecuador,False,Brazil,3,2016
 38374,2016-09-01,Iran,Qatar,2,0,FIFA World Cup qualification,Tehran,Iran,False,Iran,2,2016
 38376,2016-09-01,Japan,United Arab Emirates,1,2,FIFA World Cup qualification,Saitama,Japan,False,United Arab Emirates,1,2016
+38377,2016-09-01,South Korea,China PR,3,2,FIFA World Cup qualification,Seoul,South Korea,False,South Korea,1,2016
 38382,2016-09-01,Saudi Arabia,Thailand,1,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,False,Saudi Arabia,1,2016
 38384,2016-09-02,El Salvador,Mexico,1,3,FIFA World Cup qualification,San Salvador,El Salvador,False,Mexico,2,2016
 38385,2016-09-02,Haiti,Costa Rica,0,1,FIFA World Cup qualification,Port-au-Prince,Haiti,False,Costa Rica,1,2016
@@ -3535,6 +3636,7 @@
 38454,2016-09-06,Qatar,Uzbekistan,0,1,FIFA World Cup qualification,Doha,Qatar,False,Uzbekistan,1,2016
 38457,2016-09-06,Sweden,Netherlands,1,1,FIFA World Cup qualification,Solna,Sweden,False,draw,0,2016
 38458,2016-09-06,Switzerland,Portugal,2,0,FIFA World Cup qualification,Basel,Switzerland,False,Switzerland,2,2016
+38459,2016-09-06,Syria,South Korea,0,0,FIFA World Cup qualification,Paroi,Malaysia,True,draw,0,2016
 38460,2016-09-06,Thailand,Japan,0,2,FIFA World Cup qualification,Bangkok,Thailand,False,Japan,2,2016
 38461,2016-09-06,United Arab Emirates,Australia,0,1,FIFA World Cup qualification,Abu Dhabi,United Arab Emirates,False,Australia,1,2016
 38462,2016-09-06,Uruguay,Paraguay,4,0,FIFA World Cup qualification,Montevideo,Uruguay,False,Uruguay,4,2016
@@ -3611,11 +3713,13 @@
 38694,2016-11-15,Costa Rica,United States,4,0,FIFA World Cup qualification,San José,Costa Rica,False,Costa Rica,4,2016
 38696,2016-11-15,Ecuador,Venezuela,3,0,FIFA World Cup qualification,Quito,Ecuador,False,Ecuador,3,2016
 38702,2016-11-15,Japan,Saudi Arabia,2,1,FIFA World Cup qualification,Saitama,Japan,False,Japan,1,2016
+38705,2016-11-15,South Korea,Uzbekistan,2,1,FIFA World Cup qualification,Seoul,South Korea,False,South Korea,1,2016
 38712,2016-11-15,Panama,Mexico,0,0,FIFA World Cup qualification,Panama City,Panama,False,draw,0,2016
 38713,2016-11-15,Peru,Brazil,0,2,FIFA World Cup qualification,Lima,Peru,False,Brazil,2,2016
 38715,2016-11-15,Syria,Iran,0,0,FIFA World Cup qualification,Paroi,Malaysia,True,draw,0,2016
 38716,2016-11-15,Thailand,Australia,2,2,FIFA World Cup qualification,Bangkok,Thailand,False,draw,0,2016
 38833,2017-03-23,Argentina,Chile,1,0,FIFA World Cup qualification,Buenos Aires,Argentina,False,Argentina,1,2017
+38835,2017-03-23,China PR,South Korea,1,0,FIFA World Cup qualification,Changsha,China PR,False,China PR,1,2017
 38837,2017-03-23,Iraq,Australia,1,1,FIFA World Cup qualification,Tehran,Iran,True,draw,0,2017
 38842,2017-03-23,Paraguay,Ecuador,2,1,FIFA World Cup qualification,Asunción,Paraguay,False,Paraguay,1,2017
 38843,2017-03-23,Qatar,Iran,0,1,FIFA World Cup qualification,Doha,Qatar,False,Iran,1,2017
@@ -3644,6 +3748,7 @@
 38914,2017-03-28,Honduras,Costa Rica,1,1,FIFA World Cup qualification,San Pedro Sula,Honduras,False,draw,0,2017
 38915,2017-03-28,Iran,China PR,1,0,FIFA World Cup qualification,Tehran,Iran,False,Iran,1,2017
 38917,2017-03-28,Japan,Thailand,4,0,FIFA World Cup qualification,Saitama,Japan,False,Japan,4,2017
+38919,2017-03-28,South Korea,Syria,1,0,FIFA World Cup qualification,Seoul,South Korea,False,South Korea,1,2017
 38931,2017-03-28,Panama,United States,1,1,FIFA World Cup qualification,Panama City,Panama,False,draw,0,2017
 38932,2017-03-28,Peru,Uruguay,2,1,FIFA World Cup qualification,Lima,Peru,False,Peru,1,2017
 38936,2017-03-28,Saudi Arabia,Iraq,1,0,FIFA World Cup qualification,Jeddah,Saudi Arabia,False,Saudi Arabia,1,2017
@@ -3722,6 +3827,7 @@
 39416,2017-09-05,Qatar,China PR,1,2,FIFA World Cup qualification,Doha,Qatar,False,China PR,1,2017
 39417,2017-09-05,Saudi Arabia,Japan,1,0,FIFA World Cup qualification,Jeddah,Saudi Arabia,False,Saudi Arabia,1,2017
 39421,2017-09-05,Turkey,Croatia,1,0,FIFA World Cup qualification,Eskişehir,Turkey,False,Turkey,1,2017
+39422,2017-09-05,Uzbekistan,South Korea,0,0,FIFA World Cup qualification,Tashkent,Uzbekistan,False,draw,0,2017
 39424,2017-10-05,Argentina,Peru,0,0,FIFA World Cup qualification,Buenos Aires,Argentina,False,draw,0,2017
 39425,2017-10-05,Armenia,Poland,1,6,FIFA World Cup qualification,Yerevan,Armenia,False,Poland,5,2017
 39427,2017-10-05,Bolivia,Brazil,0,0,FIFA World Cup qualification,La Paz,Bolivia,False,draw,0,2017
@@ -3792,6 +3898,7 @@
 40081,2018-06-17,Costa Rica,Serbia,0,1,FIFA World Cup,Samara,Russia,True,Serbia,1,2018
 40082,2018-06-17,Germany,Mexico,0,1,FIFA World Cup,Moscow,Russia,True,Mexico,1,2018
 40083,2018-06-17,Brazil,Switzerland,1,1,FIFA World Cup,Rostov-on-Don,Russia,True,draw,0,2018
+40084,2018-06-18,Sweden,South Korea,1,0,FIFA World Cup,Nizhny Novgorod,Russia,True,Sweden,1,2018
 40085,2018-06-18,Belgium,Panama,3,0,FIFA World Cup,Sochi,Russia,True,Belgium,3,2018
 40086,2018-06-18,Tunisia,England,1,2,FIFA World Cup,Volgograd,Russia,True,England,1,2018
 40087,2018-06-19,Colombia,Japan,1,2,FIFA World Cup,Saransk,Russia,True,Japan,1,2018
@@ -3848,20 +3955,24 @@
 41342,2019-09-10,Yemen,Saudi Arabia,2,2,FIFA World Cup qualification,Riffa,Bahrain,True,draw,0,2019
 41345,2019-09-10,Qatar,India,0,0,FIFA World Cup qualification,Doha,Qatar,False,draw,0,2019
 41347,2019-09-10,Myanmar,Japan,0,2,FIFA World Cup qualification,Yangon,Myanmar,False,Japan,2,2019
+41350,2019-09-10,Turkmenistan,South Korea,0,2,FIFA World Cup qualification,Ashgabat,Turkmenistan,False,South Korea,2,2019
 41418,2019-10-10,Australia,Nepal,5,0,FIFA World Cup qualification,Canberra,Australia,False,Australia,5,2019
 41419,2019-10-10,Iran,Cambodia,14,0,FIFA World Cup qualification,Tehran,Iran,False,Iran,14,2019
 41422,2019-10-10,Saudi Arabia,Singapore,3,0,FIFA World Cup qualification,Buraidah,Saudi Arabia,False,Saudi Arabia,3,2019
 41423,2019-10-10,Bangladesh,Qatar,0,2,FIFA World Cup qualification,Dhaka,Bangladesh,False,Qatar,2,2019
 41425,2019-10-10,Japan,Mongolia,6,0,FIFA World Cup qualification,Saitama,Japan,False,Japan,6,2019
+41430,2019-10-10,South Korea,Sri Lanka,8,0,FIFA World Cup qualification,Hwaseong,South Korea,False,South Korea,8,2019
 41535,2019-10-15,Taiwan,Australia,1,7,FIFA World Cup qualification,Kaohsiung,Taiwan,False,Australia,6,2019
 41537,2019-10-15,Bahrain,Iran,1,0,FIFA World Cup qualification,Riffa,Bahrain,False,Bahrain,1,2019
 41538,2019-10-15,Palestine,Saudi Arabia,0,0,FIFA World Cup qualification,Al-Ram,Palestine,False,draw,0,2019
 41541,2019-10-15,Qatar,Oman,2,1,FIFA World Cup qualification,Al Wakrah,Qatar,False,Qatar,1,2019
 41543,2019-10-15,Tajikistan,Japan,0,3,FIFA World Cup qualification,Dushanbe,Tajikistan,False,Japan,3,2019
+41546,2019-10-15,North Korea,South Korea,0,0,FIFA World Cup qualification,Pyongyang,North Korea,False,draw,0,2019
 41609,2019-11-14,Jordan,Australia,0,1,FIFA World Cup qualification,Amman,Jordan,False,Australia,1,2019
 41611,2019-11-14,Iraq,Iran,2,1,FIFA World Cup qualification,Amman,Jordan,True,Iraq,1,2019
 41613,2019-11-14,Uzbekistan,Saudi Arabia,2,3,FIFA World Cup qualification,Tashkent,Uzbekistan,False,Saudi Arabia,1,2019
 41618,2019-11-14,Kyrgyzstan,Japan,0,2,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False,Japan,2,2019
+41621,2019-11-14,Lebanon,South Korea,0,0,FIFA World Cup qualification,Beirut,Lebanon,False,draw,0,2019
 41743,2019-11-19,Afghanistan,Qatar,0,1,FIFA World Cup qualification,Dushanbe,Tajikistan,True,Qatar,1,2019
 41858,2020-10-08,Uruguay,Chile,2,1,FIFA World Cup qualification,Montevideo,Uruguay,False,Uruguay,1,2020
 41859,2020-10-08,Argentina,Ecuador,1,0,FIFA World Cup qualification,Buenos Aires,Argentina,False,Argentina,1,2020
@@ -3922,6 +4033,7 @@
 42326,2021-06-03,Qatar,India,1,0,FIFA World Cup qualification,Doha,Qatar,False,Qatar,1,2021
 42345,2021-06-04,Brazil,Ecuador,2,0,FIFA World Cup qualification,Porto Alegre,Brazil,False,Brazil,2,2021
 42355,2021-06-05,Saudi Arabia,Yemen,3,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,False,Saudi Arabia,3,2021
+42357,2021-06-05,South Korea,Turkmenistan,5,0,FIFA World Cup qualification,Goyang,South Korea,False,South Korea,5,2021
 42359,2021-06-05,Aruba,Canada,0,7,FIFA World Cup qualification,Bradenton,United States,True,Canada,7,2021
 42384,2021-06-07,Australia,Taiwan,5,1,FIFA World Cup qualification,Kuwait City,Kuwait,True,Australia,4,2021
 42389,2021-06-07,Japan,Tajikistan,4,1,FIFA World Cup qualification,Suita,Japan,False,Japan,3,2021
@@ -3932,10 +4044,12 @@
 42418,2021-06-08,Colombia,Argentina,2,2,FIFA World Cup qualification,Barranquilla,Colombia,False,draw,0,2021
 42419,2021-06-08,Venezuela,Uruguay,0,0,FIFA World Cup qualification,Caracas,Venezuela,False,draw,0,2021
 42420,2021-06-08,Paraguay,Brazil,0,2,FIFA World Cup qualification,Asunción,Paraguay,False,Brazil,2,2021
+42426,2021-06-09,South Korea,Sri Lanka,5,0,FIFA World Cup qualification,Goyang,South Korea,False,South Korea,5,2021
 42431,2021-06-11,Nepal,Australia,0,3,FIFA World Cup qualification,Kuwait City,Kuwait,True,Australia,3,2021
 42433,2021-06-11,Cambodia,Iran,0,10,FIFA World Cup qualification,Isa Town,Bahrain,True,Iran,10,2021
 42446,2021-06-11,Saudi Arabia,Singapore,3,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,False,Saudi Arabia,3,2021
 42448,2021-06-12,Haiti,Canada,0,1,FIFA World Cup qualification,Port-au-Prince,Haiti,False,Canada,1,2021
+42457,2021-06-13,South Korea,Lebanon,2,1,FIFA World Cup qualification,Goyang,South Korea,False,South Korea,1,2021
 42473,2021-06-15,Australia,Jordan,1,0,FIFA World Cup qualification,Kuwait City,Kuwait,True,Australia,1,2021
 42475,2021-06-15,Iran,Iraq,1,0,FIFA World Cup qualification,Arad,Iran,False,Iran,1,2021
 42477,2021-06-15,Saudi Arabia,Uzbekistan,3,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,False,Saudi Arabia,3,2021
@@ -3948,6 +4062,7 @@
 42653,2021-09-01,Norway,Netherlands,1,1,FIFA World Cup qualification,Oslo,Norway,False,draw,0,2021
 42658,2021-09-01,Russia,Croatia,0,0,FIFA World Cup qualification,Moscow,Russia,False,draw,0,2021
 42665,2021-09-02,Morocco,Sudan,2,0,FIFA World Cup qualification,Rabat,Morocco,False,Morocco,2,2021
+42668,2021-09-02,South Korea,Iraq,0,0,FIFA World Cup qualification,Seoul,South Korea,False,draw,0,2021
 42669,2021-09-02,Iran,Syria,1,0,FIFA World Cup qualification,Tehran,Iran,False,Iran,1,2021
 42671,2021-09-02,Japan,Oman,0,1,FIFA World Cup qualification,Suita,Japan,False,Oman,1,2021
 42672,2021-09-02,Australia,China PR,3,0,FIFA World Cup qualification,Doha,Qatar,True,Australia,3,2021
@@ -3988,6 +4103,7 @@
 42750,2021-09-06,South Africa,Ghana,1,0,FIFA World Cup qualification,Johannesburg,South Africa,False,South Africa,1,2021
 42757,2021-09-07,Zambia,Tunisia,0,2,FIFA World Cup qualification,Ndola,Zambia,False,Tunisia,2,2021
 42763,2021-09-07,Congo,Senegal,1,3,FIFA World Cup qualification,Brazzaville,Congo,False,Senegal,2,2021
+42767,2021-09-07,South Korea,Lebanon,1,0,FIFA World Cup qualification,Suwon,South Korea,False,South Korea,1,2021
 42768,2021-09-07,Iraq,Iran,0,3,FIFA World Cup qualification,Doha,Qatar,True,Iran,3,2021
 42769,2021-09-07,China PR,Japan,0,1,FIFA World Cup qualification,Doha,Qatar,True,Japan,1,2021
 42770,2021-09-07,Vietnam,Australia,0,1,FIFA World Cup qualification,Hanoi,Vietnam,False,Australia,1,2021
@@ -4012,6 +4128,7 @@
 42807,2021-09-09,Argentina,Bolivia,3,0,FIFA World Cup qualification,Buenos Aires,Argentina,False,Argentina,3,2021
 42808,2021-09-09,Brazil,Peru,2,0,FIFA World Cup qualification,Recife,Brazil,False,Brazil,2,2021
 42816,2021-10-06,Morocco,Guinea-Bissau,5,0,FIFA World Cup qualification,Rabat,Morocco,False,Morocco,5,2021
+42822,2021-10-07,South Korea,Syria,2,1,FIFA World Cup qualification,Ansan,South Korea,False,South Korea,1,2021
 42823,2021-10-07,United Arab Emirates,Iran,0,1,FIFA World Cup qualification,Dubai,United Arab Emirates,False,Iran,1,2021
 42824,2021-10-07,Saudi Arabia,Japan,1,0,FIFA World Cup qualification,Jeddah,Saudi Arabia,False,Saudi Arabia,1,2021
 42826,2021-10-07,Australia,Oman,3,1,FIFA World Cup qualification,Doha,Qatar,True,Australia,2,2021
@@ -4070,6 +4187,7 @@
 42983,2021-11-11,Ethiopia,Ghana,1,1,FIFA World Cup qualification,Johannesburg,South Africa,True,draw,0,2021
 42986,2021-11-11,Togo,Senegal,1,1,FIFA World Cup qualification,Lomé,Togo,False,draw,0,2021
 42989,2021-11-11,Lebanon,Iran,1,2,FIFA World Cup qualification,Sidon,Lebanon,False,Iran,1,2021
+42991,2021-11-11,South Korea,United Arab Emirates,1,0,FIFA World Cup qualification,Goyang,South Korea,False,South Korea,1,2021
 42993,2021-11-11,Vietnam,Japan,0,1,FIFA World Cup qualification,Hanoi,Vietnam,False,Japan,1,2021
 42994,2021-11-11,Australia,Saudi Arabia,0,0,FIFA World Cup qualification,Sydney,Australia,False,draw,0,2021
 42995,2021-11-11,Republic of Ireland,Portugal,0,0,FIFA World Cup qualification,Dublin,Republic of Ireland,False,draw,0,2021
@@ -4105,6 +4223,7 @@
 43087,2021-11-16,Tunisia,Zambia,3,1,FIFA World Cup qualification,Radès,Tunisia,False,Tunisia,2,2021
 43091,2021-11-16,Cameroon,Ivory Coast,1,0,FIFA World Cup qualification,Douala,Cameroon,False,Cameroon,1,2021
 43094,2021-11-16,Morocco,Guinea,3,0,FIFA World Cup qualification,Casablanca,Morocco,False,Morocco,3,2021
+43096,2021-11-16,Iraq,South Korea,0,3,FIFA World Cup qualification,Al Rayyan,Qatar,True,South Korea,3,2021
 43097,2021-11-16,Syria,Iran,0,3,FIFA World Cup qualification,Amman,Jordan,True,Iran,3,2021
 43098,2021-11-16,China PR,Australia,1,1,FIFA World Cup qualification,Sharjah,United Arab Emirates,True,draw,0,2021
 43099,2021-11-16,Vietnam,Saudi Arabia,0,1,FIFA World Cup qualification,Hanoi,Vietnam,False,Saudi Arabia,1,2021
@@ -4122,6 +4241,7 @@
 43222,2022-01-27,United States,El Salvador,1,0,FIFA World Cup qualification,Columbus,United States,False,United States,1,2022
 43223,2022-01-27,Honduras,Canada,0,2,FIFA World Cup qualification,San Pedro Sula,Honduras,False,Canada,2,2022
 43224,2022-01-27,Costa Rica,Panama,1,0,FIFA World Cup qualification,San José,Costa Rica,False,Costa Rica,1,2022
+43225,2022-01-27,Lebanon,South Korea,0,1,FIFA World Cup qualification,Sidon,Lebanon,False,South Korea,1,2022
 43226,2022-01-27,Iran,Iraq,1,0,FIFA World Cup qualification,Tehran,Iran,False,Iran,1,2022
 43228,2022-01-27,Japan,China PR,2,0,FIFA World Cup qualification,Saitama,Japan,False,Japan,2,2022
 43229,2022-01-27,Australia,Vietnam,4,0,FIFA World Cup qualification,Melbourne,Australia,False,Australia,4,2022
@@ -4132,6 +4252,7 @@
 43246,2022-01-30,Canada,United States,2,0,FIFA World Cup qualification,Hamilton,Canada,False,Canada,2,2022
 43247,2022-01-30,Mexico,Costa Rica,0,0,FIFA World Cup qualification,Mexico City,Mexico,False,draw,0,2022
 43256,2022-02-01,Iran,United Arab Emirates,1,0,FIFA World Cup qualification,Tehran,Iran,False,Iran,1,2022
+43257,2022-02-01,Syria,South Korea,0,2,FIFA World Cup qualification,Dubai,United Arab Emirates,True,South Korea,2,2022
 43259,2022-02-01,Japan,Saudi Arabia,2,0,FIFA World Cup qualification,Saitama,Japan,False,Japan,2,2022
 43260,2022-02-01,Oman,Australia,2,2,FIFA World Cup qualification,Muscat,Oman,False,draw,0,2022
 43262,2022-02-01,Uruguay,Venezuela,4,1,FIFA World Cup qualification,Montevideo,Uruguay,False,Uruguay,3,2022
@@ -4168,6 +4289,7 @@
 43388,2022-03-29,Senegal,Egypt,1,0,FIFA World Cup qualification,Diamniadio,Senegal,False,Senegal,1,2022
 43389,2022-03-29,Tunisia,Mali,0,0,FIFA World Cup qualification,Tunis,Tunisia,False,draw,0,2022
 43390,2022-03-29,Iran,Lebanon,2,0,FIFA World Cup qualification,Mashhad,Iran,False,Iran,2,2022
+43392,2022-03-29,United Arab Emirates,South Korea,1,0,FIFA World Cup qualification,Dubai,United Arab Emirates,False,United Arab Emirates,1,2022
 43393,2022-03-29,Japan,Vietnam,1,1,FIFA World Cup qualification,Saitama,Japan,False,draw,0,2022
 43395,2022-03-29,Saudi Arabia,Australia,1,0,FIFA World Cup qualification,Jeddah,Saudi Arabia,False,Saudi Arabia,1,2022
 43396,2022-03-29,Ecuador,Argentina,1,1,FIFA World Cup qualification,Guayaquil,Ecuador,False,draw,0,2022
